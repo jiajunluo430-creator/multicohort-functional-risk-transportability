@@ -1,0 +1,9 @@
+cohort,method,criterion,descriptive_operating_point_identified,first_fraction_with_ge80pct_outer_tolerance,persons_at_operating_point_median,events_at_operating_point_median,outer_tolerance_rate
+CHARLS,intercept_and_slope,first tested fraction with >=80% outer splits meeting descriptive tolerance; not a minimum-data requirement,False,,,,
+CHARLS,intercept_only,first tested fraction with >=80% outer splits meeting descriptive tolerance; not a minimum-data requirement,True,0.2,783.0,157.5,0.8666666666666667
+ELSA,intercept_and_slope,first tested fraction with >=80% outer splits meeting descriptive tolerance; not a minimum-data requirement,True,0.05,430.0,148.5,0.8333333333333334
+ELSA,intercept_only,first tested fraction with >=80% outer splits meeting descriptive tolerance; not a minimum-data requirement,True,0.05,430.0,148.5,1.0
+HRS,intercept_and_slope,first tested fraction with >=80% outer splits meeting descriptive tolerance; not a minimum-data requirement,True,0.05,1000.0,404.5,1.0
+HRS,intercept_only,first tested fraction with >=80% outer splits meeting descriptive tolerance; not a minimum-data requirement,True,0.05,1000.0,404.5,1.0
+MHAS,intercept_and_slope,first tested fraction with >=80% outer splits meeting descriptive tolerance; not a minimum-data requirement,False,,,,
+MHAS,intercept_only,first tested fraction with >=80% outer splits meeting descriptive tolerance; not a minimum-data requirement,True,0.1,519.0,117.0,0.8666666666666667

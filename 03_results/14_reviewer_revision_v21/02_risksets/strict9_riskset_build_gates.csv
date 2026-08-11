@@ -1,0 +1,5 @@
+gate,passed
+strict9_two_wave_nonempty_all_cohorts,TRUE
+strict9_one_wave_nonempty_all_cohorts,TRUE
+mhas_telephone_absent,TRUE
+elsa_death_link_absent,TRUE

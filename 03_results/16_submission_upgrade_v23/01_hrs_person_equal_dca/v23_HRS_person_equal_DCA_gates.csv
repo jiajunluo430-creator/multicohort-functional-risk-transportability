@@ -1,0 +1,9 @@
+gate,passed
+single_threshold_0_20,True
+30_fixed_outer_splits,True
+zero_person_overlap,True
+all_intercept_fits_successful,True
+equal_cohort_reference_has_30_splits,True
+equal_cohort_reference_matches_v22_median,True
+equal_cohort_reference_matches_8_of_30,True
+person_equal_prediction_matches_v22_gap,True

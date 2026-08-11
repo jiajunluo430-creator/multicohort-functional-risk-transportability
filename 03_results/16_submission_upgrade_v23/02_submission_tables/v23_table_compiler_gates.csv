@@ -1,0 +1,9 @@
+gate,passed
+table1_five_display_columns,True
+table1_has_no_episode_flow,True
+supplement_31_data_sheets,True
+probability_gap_uses_within_replicate_difference,True
+DCA_delta_uses_disjoint_outer_splits,True
+HRS_person_equal_DCA_added_as_single_paired_sensitivity,True
+cohort_order_defined,True
+all_upstream_gates_passed,True

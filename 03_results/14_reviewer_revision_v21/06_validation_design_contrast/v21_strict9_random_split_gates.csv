@@ -1,0 +1,4 @@
+gate,passed
+all_200_models_converged,TRUE
+all_100_repetitions_present,TRUE
+country_specific_and_pooled_reported,TRUE

@@ -1,0 +1,307 @@
+{
+  "outcome": "newly reported difficulty in any of 5 common ADL or 4 common IADL items",
+  "two_wave": {
+    "records": 126264,
+    "events": 13000,
+    "observed_persons_sum_across_cohorts": 37732
+  },
+  "one_wave": {
+    "records": 174240,
+    "events": 23276,
+    "observed_persons_sum_across_cohorts": 53043
+  },
+  "two_wave_M1": {
+    "CHARLS": {
+      "event_rate": 0.201021711366539,
+      "mean_prediction": 0.1116797093589,
+      "auc": 0.661865650906515,
+      "brier": 0.158925810626642,
+      "calibration_intercept": 0.746403411925183,
+      "calibration_slope": 0.854529074315312
+    },
+    "ELSA": {
+      "event_rate": 0.0971872856162817,
+      "mean_prediction": 0.0815988936364047,
+      "auc": 0.749399431505125,
+      "brier": 0.080501842230272,
+      "calibration_intercept": 0.206728404731085,
+      "calibration_slope": 1.10193582762482
+    },
+    "HRS": {
+      "event_rate": 0.0960913022241813,
+      "mean_prediction": 0.114880828065764,
+      "auc": 0.748341956453983,
+      "brier": 0.0800976233919158,
+      "calibration_intercept": -0.215336162850612,
+      "calibration_slope": 1.10637240045335
+    },
+    "MHAS": {
+      "event_rate": 0.150314223419264,
+      "mean_prediction": 0.261722795755076,
+      "auc": 0.70231360680018,
+      "brier": 0.135675176373238,
+      "calibration_intercept": -0.786268807385991,
+      "calibration_slope": 0.833863462086375
+    }
+  },
+  "one_wave_M1": {
+    "CHARLS": {
+      "event_rate": 0.24110240904134,
+      "mean_prediction": 0.130903045005279,
+      "auc": 0.687490197110592,
+      "brier": 0.180921395726867,
+      "calibration_intercept": 0.815387289499156,
+      "calibration_slope": 0.94486660695679
+    },
+    "ELSA": {
+      "event_rate": 0.125838503051395,
+      "mean_prediction": 0.113189131649432,
+      "auc": 0.760874917386122,
+      "brier": 0.0978012739394776,
+      "calibration_intercept": 0.134530314814527,
+      "calibration_slope": 1.04565145577883
+    },
+    "HRS": {
+      "event_rate": 0.119832439297155,
+      "mean_prediction": 0.157126020112507,
+      "auc": 0.75145732425514,
+      "brier": 0.0970448186645773,
+      "calibration_intercept": -0.351419769755349,
+      "calibration_slope": 1.01492623461302
+    },
+    "MHAS": {
+      "event_rate": 0.169080853305241,
+      "mean_prediction": 0.28118132084725,
+      "auc": 0.719702524302521,
+      "brier": 0.143524451713636,
+      "calibration_intercept": -0.757150804730552,
+      "calibration_slope": 0.874054491450567
+    }
+  },
+  "two_wave_M1_increment": {
+    "CHARLS": {
+      "delta_auc_median": 0.0463700168747464,
+      "delta_auc_lower_95": 0.022991480008483,
+      "delta_auc_upper_95": 0.0675455352749776,
+      "delta_brier_median": -0.0095637019324911,
+      "delta_brier_lower_95": -0.0114779755695163,
+      "delta_brier_upper_95": -0.0078846417711778
+    },
+    "HRS": {
+      "delta_auc_median": 0.1122150829474153,
+      "delta_auc_lower_95": 0.1062390584192773,
+      "delta_auc_upper_95": 0.1187500407933816,
+      "delta_brier_median": -0.010298246361205,
+      "delta_brier_lower_95": -0.0107274282968865,
+      "delta_brier_upper_95": -0.0098747759494891
+    },
+    "ELSA": {
+      "delta_auc_median": 0.1057318930608352,
+      "delta_auc_lower_95": 0.0968225026717036,
+      "delta_auc_upper_95": 0.113759472288435,
+      "delta_brier_median": -0.0077063625335399,
+      "delta_brier_lower_95": -0.0082346573211758,
+      "delta_brier_upper_95": -0.0071088466543589
+    },
+    "MHAS": {
+      "delta_auc_median": 0.0638120568197062,
+      "delta_auc_lower_95": 0.0473088701903576,
+      "delta_auc_upper_95": 0.0811390022589263,
+      "delta_brier_median": 0.0112754811329215,
+      "delta_brier_lower_95": 0.0070221531636436,
+      "delta_brier_upper_95": 0.0151158139067402
+    }
+  },
+  "random_split_M1": {
+    "model": "M1",
+    "pooled_joint_lenient_pass_rate": 1.0,
+    "any_country_lenient_failure_rate": 0.99,
+    "concealment_rate_all_repetitions": 0.99,
+    "concealment_rate_given_pooled_pass": 0.99,
+    "median_countries_failing_when_pooled_passes": 2,
+    "median_maximum_country_abs_citl": 0.37350233629366,
+    "median_maximum_country_abs_slope_error": 0.161522476421847
+  },
+  "updating_operating_points": [
+    {
+      "cohort": "CHARLS",
+      "method": "intercept_and_slope",
+      "criterion": "first tested fraction with >=80% outer splits meeting descriptive tolerance; not a minimum-data requirement",
+      "descriptive_operating_point_identified": false,
+      "first_fraction_with_ge80pct_outer_tolerance": null,
+      "persons_at_operating_point_median": null,
+      "events_at_operating_point_median": null,
+      "outer_tolerance_rate": null
+    },
+    {
+      "cohort": "CHARLS",
+      "method": "intercept_only",
+      "criterion": "first tested fraction with >=80% outer splits meeting descriptive tolerance; not a minimum-data requirement",
+      "descriptive_operating_point_identified": true,
+      "first_fraction_with_ge80pct_outer_tolerance": 0.2,
+      "persons_at_operating_point_median": 783.0,
+      "events_at_operating_point_median": 157.5,
+      "outer_tolerance_rate": 0.8666666666666667
+    },
+    {
+      "cohort": "ELSA",
+      "method": "intercept_and_slope",
+      "criterion": "first tested fraction with >=80% outer splits meeting descriptive tolerance; not a minimum-data requirement",
+      "descriptive_operating_point_identified": true,
+      "first_fraction_with_ge80pct_outer_tolerance": 0.05,
+      "persons_at_operating_point_median": 430.0,
+      "events_at_operating_point_median": 148.5,
+      "outer_tolerance_rate": 0.8333333333333334
+    },
+    {
+      "cohort": "ELSA",
+      "method": "intercept_only",
+      "criterion": "first tested fraction with >=80% outer splits meeting descriptive tolerance; not a minimum-data requirement",
+      "descriptive_operating_point_identified": true,
+      "first_fraction_with_ge80pct_outer_tolerance": 0.05,
+      "persons_at_operating_point_median": 430.0,
+      "events_at_operating_point_median": 148.5,
+      "outer_tolerance_rate": 1.0
+    },
+    {
+      "cohort": "HRS",
+      "method": "intercept_and_slope",
+      "criterion": "first tested fraction with >=80% outer splits meeting descriptive tolerance; not a minimum-data requirement",
+      "descriptive_operating_point_identified": true,
+      "first_fraction_with_ge80pct_outer_tolerance": 0.05,
+      "persons_at_operating_point_median": 1000.0,
+      "events_at_operating_point_median": 404.5,
+      "outer_tolerance_rate": 1.0
+    },
+    {
+      "cohort": "HRS",
+      "method": "intercept_only",
+      "criterion": "first tested fraction with >=80% outer splits meeting descriptive tolerance; not a minimum-data requirement",
+      "descriptive_operating_point_identified": true,
+      "first_fraction_with_ge80pct_outer_tolerance": 0.05,
+      "persons_at_operating_point_median": 1000.0,
+      "events_at_operating_point_median": 404.5,
+      "outer_tolerance_rate": 1.0
+    },
+    {
+      "cohort": "MHAS",
+      "method": "intercept_and_slope",
+      "criterion": "first tested fraction with >=80% outer splits meeting descriptive tolerance; not a minimum-data requirement",
+      "descriptive_operating_point_identified": false,
+      "first_fraction_with_ge80pct_outer_tolerance": null,
+      "persons_at_operating_point_median": null,
+      "events_at_operating_point_median": null,
+      "outer_tolerance_rate": null
+    },
+    {
+      "cohort": "MHAS",
+      "method": "intercept_only",
+      "criterion": "first tested fraction with >=80% outer splits meeting descriptive tolerance; not a minimum-data requirement",
+      "descriptive_operating_point_identified": true,
+      "first_fraction_with_ge80pct_outer_tolerance": 0.1,
+      "persons_at_operating_point_median": 519.0,
+      "events_at_operating_point_median": 117.0,
+      "outer_tolerance_rate": 0.8666666666666667
+    }
+  ],
+  "DCA_intercept_update": {
+    "CHARLS": {
+      "median_delta_nb_min": 0.0110237279021308,
+      "median_delta_nb_max": 0.0188378033205619,
+      "thresholds_nonnegative_median": 11.0,
+      "thresholds_total": 11.0
+    },
+    "ELSA": {
+      "median_delta_nb_min": -6.892334821350862e-05,
+      "median_delta_nb_max": 0.0019038704569352,
+      "thresholds_nonnegative_median": 10.0,
+      "thresholds_total": 11.0
+    },
+    "HRS": {
+      "median_delta_nb_min": -0.0002940015794492,
+      "median_delta_nb_max": 0.0016785989581806,
+      "thresholds_nonnegative_median": 7.0,
+      "thresholds_total": 11.0
+    },
+    "MHAS": {
+      "median_delta_nb_min": 9.210969834654026e-05,
+      "median_delta_nb_max": 0.0276652717846507,
+      "thresholds_nonnegative_median": 11.0,
+      "thresholds_total": 11.0
+    }
+  },
+  "ELSA_death_boundary": [
+    {
+      "unknown_death_fraction": 0.0,
+      "scenario": "deterministic_lower_confirmed_only",
+      "repetitions": 1,
+      "records_median": 30987,
+      "events_median": 3351,
+      "event_rate_median": 0.108142124116565,
+      "event_rate_low": 0.108142124116565,
+      "event_rate_high": 0.108142124116565,
+      "auc_median": 0.755518288891714,
+      "brier_median": 0.0867658309372017,
+      "citl_median": -0.0508294971488129,
+      "citl_low": -0.0508294971488129,
+      "citl_high": -0.0508294971488129,
+      "slope_median": 1.12063690071411
+    },
+    {
+      "unknown_death_fraction": 1.0,
+      "scenario": "deterministic_upper_all_unknown_deaths",
+      "repetitions": 1,
+      "records_median": 34587,
+      "events_median": 6951,
+      "event_rate_median": 0.200971463266545,
+      "event_rate_low": 0.200971463266545,
+      "event_rate_high": 0.200971463266545,
+      "auc_median": 0.708238090198996,
+      "brier_median": 0.151176343351346,
+      "citl_median": 0.699626214793291,
+      "citl_low": 0.699626214793291,
+      "citl_high": 0.699626214793291,
+      "slope_median": 0.909127902424818
+    },
+    {
+      "unknown_death_fraction": 0.25,
+      "scenario": "landmark_stratified_random_assignment",
+      "repetitions": 200,
+      "records_median": 31884,
+      "events_median": 4248,
+      "event_rate_median": 0.13323296951449,
+      "event_rate_low": 0.13323296951449,
+      "event_rate_high": 0.13323296951449,
+      "auc_median": 0.73609370447101,
+      "brier_median": 0.104180402911646,
+      "citl_median": 0.19198290171288,
+      "citl_low": 0.188920244421024,
+      "citl_high": 0.194817784240649,
+      "slope_median": 1.0352356900447
+    },
+    {
+      "unknown_death_fraction": 0.5,
+      "scenario": "landmark_stratified_random_assignment",
+      "repetitions": 200,
+      "records_median": 32786,
+      "events_median": 5150,
+      "event_rate_median": 0.157079241139511,
+      "event_rate_low": 0.157079241139511,
+      "event_rate_high": 0.157079241139511,
+      "auc_median": 0.723552884797794,
+      "brier_median": 0.120750898080808,
+      "citl_median": 0.390027555515407,
+      "citl_low": 0.387563171775533,
+      "citl_high": 0.392790672062332,
+      "slope_median": 0.979028685567212
+    }
+  ],
+  "sequence_medians_two_wave_observed_persons": {
+    "CHARLS": 1,
+    "ELSA": 3,
+    "HRS": 3,
+    "MHAS": 2
+  },
+  "outer_split_person_overlap_max": 0,
+  "all_gates_passed": true
+}

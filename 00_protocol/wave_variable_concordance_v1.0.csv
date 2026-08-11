@@ -1,0 +1,23 @@
+concept,CHARLS,HRS,ELSA,MHAS,common_semantics,primary_use,known_boundary
+person_id,ID,hhidpn,idauniq,rahhidnp,stable person identifier,key,HRS source is RAND 1992-2022 V1
+age,r{w}agey,r{w}agey_b,r{w}agey,r{w}agey,age in years,M0,
+sex,ragender,ragender,ragender,ragender,1 man/male 2 woman/female,M0,
+education,raeducl,raeduc,raeducl,raeducl,ordinal attainment mapped low/middle/high,M1,HRS 5 levels collapsed to 3
+marital_status,r{w}mstat,r{w}mstat,r{w}mstat,r{w}mstat,partnered versus not partnered,M1/M2,
+self_rated_health,r{w}shlt,r{w}shlt,r{w}shlt except W3 r3shlta,r{w}shlt,ordered 1 excellent to 5 poor,M1/M2,ELSA W3 uses European-scale alternate item
+chair_rise,r{w}chaira,r{w}chaira,r{w}chaira,r{w}chaira,difficulty rising from chair,M1/M2,HRS 1 difficulty or 2 cannot do mapped positive; 7 do-not-do missing
+lift_10lb,r{w}lifta,r{w}lifta,r{w}lifta,r{w}lifta,difficulty lifting/carrying about 10 lb,M1/M2,same HRS coding rule
+stoop_kneel,r{w}stoopa,r{w}stoopa,r{w}stoopa,r{w}stoopa,difficulty stooping/kneeling/crouching,M1/M2,same HRS coding rule
+hypertension,r{w}hibpe,r{w}hibpe,r{w}hibpe,r{w}hibpe,ever diagnosed 0/1,M1/M2,
+diabetes,r{w}diabe,r{w}diabe,r{w}diabe,r{w}diabe,ever diagnosed 0/1,M1/M2,
+cancer,r{w}cancre,r{w}cancre,r{w}cancre,r{w}cancre,ever diagnosed 0/1,M1/M2,
+stroke,r{w}stroke,r{w}stroke,r{w}stroke,r{w}stroke,ever diagnosed 0/1,M1/M2,
+arthritis,r{w}arthre,r{w}arthre,r{w}arthre,r{w}arthre,ever diagnosed 0/1,M1/M2,
+current_smoking,r{w}smoken,r{w}smoken,r{w}smoken,r{w}smoken,current smoking 0/1,M1,change excluded primary because CHARLS prior routing missingness
+depressive_symptoms,r{w}cesd10,r{w}cesd,r{w}cesd,r{w}cesd_m,score represented as scale proportion,M1/M2,scales differ in item count
+proxy_status,not available,r{w}proxy,r{w}proxy,r{w}proxy,nonproxy versus any proxy,audit/sensitivity,CHARLS cannot enter common nonproxy sensitivity
+respondent_weight,r{w}wtresp,r{w}wtresp,r{w}wtresp,r{w}wtresp,positive respondent analysis weight,audit/sensitivity,cross-sectional estimands differ by cohort
+interview_mode,not available,not common repeated,only r10iwmode_e,not available,no four-cohort repeated common field,audit only,mode cannot be harmonized for primary analysis
+ADL,adlfive,adl5a,adlfivea,adlfivea,any difficulty across 5 ADL items,eligibility/outcome,
+IADL,iadlza,iadl5a,iadlzaa,iadlfoura,any difficulty,eligibility/outcome,MHAS has 4 versus 5 items
+

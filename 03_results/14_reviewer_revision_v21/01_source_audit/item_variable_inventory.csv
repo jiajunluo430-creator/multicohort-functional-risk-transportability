@@ -1,0 +1,341 @@
+cohort,wave,domain,item,variable,available,variable_label
+CHARLS,2,ADL,bath,r2batha,TRUE,"r2batha:w2 r Some Diff-Bathing, shower"
+CHARLS,2,ADL,bed,r2beda,TRUE,r2beda:w2 r Some Diff-Get in/out bed
+CHARLS,2,ADL,dress,r2dressa,TRUE,r2dressa:w2 r Some Diff-Dressing
+CHARLS,2,ADL,eat,r2eata,TRUE,r2eata:w2 r Some Diff-Eating
+CHARLS,2,ADL,toilet,r2toilta,TRUE,r2toilta:w2 r Some Diff-Using the toilet
+CHARLS,2,IADL,meal,r2mealsa,TRUE,r2mealsa:w2 r Some Diff-Prepare hot meal
+CHARLS,2,IADL,medication,r2medsa,TRUE,r2medsa:w2 r Some Diff-Take medications
+CHARLS,2,IADL,money,r2moneya,TRUE,r2moneya:w2 r Some Diff-Managing money
+CHARLS,2,IADL,shopping,r2shopa,TRUE,r2shopa:w2 r Some Diff-Shop for grocery
+CHARLS,2,IADL,telephone,r2phonea,TRUE,r2phonea:w2 r Some Diff-Use telephone
+CHARLS,3,ADL,bath,r3batha,TRUE,"r3batha:w3 r Some Diff-Bathing, shower"
+CHARLS,3,ADL,bed,r3beda,TRUE,r3beda:w3 r Some Diff-Get in/out bed
+CHARLS,3,ADL,dress,r3dressa,TRUE,r3dressa:w3 r Some Diff-Dressing
+CHARLS,3,ADL,eat,r3eata,TRUE,r3eata:w3 r Some Diff-Eating
+CHARLS,3,ADL,toilet,r3toilta,TRUE,r3toilta:w3 r Some Diff-Using the toilet
+CHARLS,3,IADL,meal,r3mealsa,TRUE,r3mealsa:w3 r Some Diff-Prepare hot meal
+CHARLS,3,IADL,medication,r3medsa,TRUE,r3medsa:w3 r Some Diff-Take medications
+CHARLS,3,IADL,money,r3moneya,TRUE,r3moneya:w3 r Some Diff-Managing money
+CHARLS,3,IADL,shopping,r3shopa,TRUE,r3shopa:w3 r Some Diff-Shop for grocery
+CHARLS,3,IADL,telephone,r3phonea,TRUE,r3phonea:w3 r Some Diff-Use telephone
+CHARLS,4,ADL,bath,r4batha,TRUE,"r4batha:w4 r Some Diff-Bathing, shower"
+CHARLS,4,ADL,bed,r4beda,TRUE,r4beda:w4 r Some Diff-Get in/out bed
+CHARLS,4,ADL,dress,r4dressa,TRUE,r4dressa:w4 r Some Diff-Dressing
+CHARLS,4,ADL,eat,r4eata,TRUE,r4eata:w4 r Some Diff-Eating
+CHARLS,4,ADL,toilet,r4toilta,TRUE,r4toilta:w4 r Some Diff-Using the toilet
+CHARLS,4,IADL,meal,r4mealsa,TRUE,r4mealsa:w4 r Some Diff-Prepare hot meal
+CHARLS,4,IADL,medication,r4medsa,TRUE,r4medsa:w4 r Some Diff-Take medications
+CHARLS,4,IADL,money,r4moneya,TRUE,r4moneya:w4 r Some Diff-Managing money
+CHARLS,4,IADL,shopping,r4shopa,TRUE,r4shopa:w4 r Some Diff-Shop for grocery
+CHARLS,4,IADL,telephone,r4phonea,TRUE,r4phonea:w4 r Some Diff-Use telephone
+ELSA,1,ADL,bath,r1batha,TRUE,"r1batha:w1 R Some Diff-Bathing, shower"
+ELSA,1,ADL,bed,r1beda,TRUE,r1beda:w1 R Some Diff-Get in/out bed
+ELSA,1,ADL,dress,r1dressa,TRUE,r1dressa:w1 R Some Diff-Dressing
+ELSA,1,ADL,eat,r1eata,TRUE,r1eata:w1 R Some Diff-Eating
+ELSA,1,ADL,toilet,r1toilta,TRUE,r1toilta:w1 R Some Diff-Using the toilet
+ELSA,1,IADL,meal,r1mealsa,TRUE,r1mealsa:w1 R Some Diff-Prepare hot meal
+ELSA,1,IADL,medication,r1medsa,TRUE,r1medsa:w1 R Some Diff-Take medications
+ELSA,1,IADL,money,r1moneya,TRUE,r1moneya:w1 R Some Diff-Managing money
+ELSA,1,IADL,shopping,r1shopa,TRUE,r1shopa:w1 R Some Diff-Shop for grocery
+ELSA,1,IADL,telephone,r1phonea,TRUE,r1phonea:w1 R Some Diff-Use a telephone
+ELSA,2,ADL,bath,r2batha,TRUE,"r2batha:w2 R Some Diff-Bathing, shower"
+ELSA,2,ADL,bed,r2beda,TRUE,r2beda:w2 R Some Diff-Get in/out bed
+ELSA,2,ADL,dress,r2dressa,TRUE,r2dressa:w2 R Some Diff-Dressing
+ELSA,2,ADL,eat,r2eata,TRUE,r2eata:w2 R Some Diff-Eating
+ELSA,2,ADL,toilet,r2toilta,TRUE,r2toilta:w2 R Some Diff-Using the toilet
+ELSA,2,IADL,meal,r2mealsa,TRUE,r2mealsa:w2 R Some Diff-Prepare hot meal
+ELSA,2,IADL,medication,r2medsa,TRUE,r2medsa:w2 R Some Diff-Take medications
+ELSA,2,IADL,money,r2moneya,TRUE,r2moneya:w2 R Some Diff-Managing money
+ELSA,2,IADL,shopping,r2shopa,TRUE,r2shopa:w2 R Some Diff-Shop for grocery
+ELSA,2,IADL,telephone,r2phonea,TRUE,r2phonea:w2 R Some Diff-Use a telephone
+ELSA,3,ADL,bath,r3batha,TRUE,"r3batha:w3 R Some Diff-Bathing, shower"
+ELSA,3,ADL,bed,r3beda,TRUE,r3beda:w3 R Some Diff-Get in/out bed
+ELSA,3,ADL,dress,r3dressa,TRUE,r3dressa:w3 R Some Diff-Dressing
+ELSA,3,ADL,eat,r3eata,TRUE,r3eata:w3 R Some Diff-Eating
+ELSA,3,ADL,toilet,r3toilta,TRUE,r3toilta:w3 R Some Diff-Using the toilet
+ELSA,3,IADL,meal,r3mealsa,TRUE,r3mealsa:w3 R Some Diff-Prepare hot meal
+ELSA,3,IADL,medication,r3medsa,TRUE,r3medsa:w3 R Some Diff-Take medications
+ELSA,3,IADL,money,r3moneya,TRUE,r3moneya:w3 R Some Diff-Managing money
+ELSA,3,IADL,shopping,r3shopa,TRUE,r3shopa:w3 R Some Diff-Shop for grocery
+ELSA,3,IADL,telephone,r3phonea,TRUE,r3phonea:w3 R Some Diff-Use a telephone
+ELSA,4,ADL,bath,r4batha,TRUE,"r4batha:w4 R Some Diff-Bathing, shower"
+ELSA,4,ADL,bed,r4beda,TRUE,r4beda:w4 R Some Diff-Get in/out bed
+ELSA,4,ADL,dress,r4dressa,TRUE,r4dressa:w4 R Some Diff-Dressing
+ELSA,4,ADL,eat,r4eata,TRUE,r4eata:w4 R Some Diff-Eating
+ELSA,4,ADL,toilet,r4toilta,TRUE,r4toilta:w4 R Some Diff-Using the toilet
+ELSA,4,IADL,meal,r4mealsa,TRUE,r4mealsa:w4 R Some Diff-Prepare hot meal
+ELSA,4,IADL,medication,r4medsa,TRUE,r4medsa:w4 R Some Diff-Take medications
+ELSA,4,IADL,money,r4moneya,TRUE,r4moneya:w4 R Some Diff-Managing money
+ELSA,4,IADL,shopping,r4shopa,TRUE,r4shopa:w4 R Some Diff-Shop for grocery
+ELSA,4,IADL,telephone,r4phonea,TRUE,r4phonea:w4 R Some Diff-Use a telephone
+ELSA,5,ADL,bath,r5batha,TRUE,"r5batha:w5 R Some Diff-Bathing, shower"
+ELSA,5,ADL,bed,r5beda,TRUE,r5beda:w5 R Some Diff-Get in/out bed
+ELSA,5,ADL,dress,r5dressa,TRUE,r5dressa:w5 R Some Diff-Dressing
+ELSA,5,ADL,eat,r5eata,TRUE,r5eata:w5 R Some Diff-Eating
+ELSA,5,ADL,toilet,r5toilta,TRUE,r5toilta:w5 R Some Diff-Using the toilet
+ELSA,5,IADL,meal,r5mealsa,TRUE,r5mealsa:w5 R Some Diff-Prepare hot meal
+ELSA,5,IADL,medication,r5medsa,TRUE,r5medsa:w5 R Some Diff-Take medications
+ELSA,5,IADL,money,r5moneya,TRUE,r5moneya:w5 R Some Diff-Managing money
+ELSA,5,IADL,shopping,r5shopa,TRUE,r5shopa:w5 R Some Diff-Shop for grocery
+ELSA,5,IADL,telephone,r5phonea,TRUE,r5phonea:w5 R Some Diff-Use a telephone
+ELSA,6,ADL,bath,r6batha,TRUE,"r6batha:w6 R Some Diff-Bathing, shower"
+ELSA,6,ADL,bed,r6beda,TRUE,r6beda:w6 R Some Diff-Get in/out bed
+ELSA,6,ADL,dress,r6dressa,TRUE,r6dressa:w6 R Some Diff-Dressing
+ELSA,6,ADL,eat,r6eata,TRUE,r6eata:w6 R Some Diff-Eating
+ELSA,6,ADL,toilet,r6toilta,TRUE,r6toilta:w6 R Some Diff-Using the toilet
+ELSA,6,IADL,meal,r6mealsa,TRUE,r6mealsa:w6 R Some Diff-Prepare hot meal
+ELSA,6,IADL,medication,r6medsa,TRUE,r6medsa:w6 R Some Diff-Take medications
+ELSA,6,IADL,money,r6moneya,TRUE,r6moneya:w6 R Some Diff-Managing money
+ELSA,6,IADL,shopping,r6shopa,TRUE,r6shopa:w6 R Some Diff-Shop for grocery
+ELSA,6,IADL,telephone,r6phonea,TRUE,r6phonea:w6 R Some Diff-Use a telephone
+ELSA,7,ADL,bath,r7batha,TRUE,"r7batha:w7 R Some Diff-Bathing, shower"
+ELSA,7,ADL,bed,r7beda,TRUE,r7beda:w7 R Some Diff-Get in/out bed
+ELSA,7,ADL,dress,r7dressa,TRUE,r7dressa:w7 R Some Diff-Dressing
+ELSA,7,ADL,eat,r7eata,TRUE,r7eata:w7 R Some Diff-Eating
+ELSA,7,ADL,toilet,r7toilta,TRUE,r7toilta:w7 R Some Diff-Using the toilet
+ELSA,7,IADL,meal,r7mealsa,TRUE,r7mealsa:w7 R Some Diff-Prepare hot meal
+ELSA,7,IADL,medication,r7medsa,TRUE,r7medsa:w7 R Some Diff-Take medications
+ELSA,7,IADL,money,r7moneya,TRUE,r7moneya:w7 R Some Diff-Managing money
+ELSA,7,IADL,shopping,r7shopa,TRUE,r7shopa:w7 R Some Diff-Shop for grocery
+ELSA,7,IADL,telephone,r7phonea,TRUE,r7phonea:w7 R Some Diff-Use a telephone
+ELSA,8,ADL,bath,r8batha,TRUE,"r8batha:w8 R Some Diff-Bathing, shower"
+ELSA,8,ADL,bed,r8beda,TRUE,r8beda:w8 R Some Diff-Get in/out bed
+ELSA,8,ADL,dress,r8dressa,TRUE,r8dressa:w8 R Some Diff-Dressing
+ELSA,8,ADL,eat,r8eata,TRUE,r8eata:w8 R Some Diff-Eating
+ELSA,8,ADL,toilet,r8toilta,TRUE,r8toilta:w8 R Some Diff-Using the toilet
+ELSA,8,IADL,meal,r8mealsa,TRUE,r8mealsa:w8 R Some Diff-Prepare hot meal
+ELSA,8,IADL,medication,r8medsa,TRUE,r8medsa:w8 R Some Diff-Take medications
+ELSA,8,IADL,money,r8moneya,TRUE,r8moneya:w8 R Some Diff-Managing money
+ELSA,8,IADL,shopping,r8shopa,TRUE,r8shopa:w8 R Some Diff-Shop for grocery
+ELSA,8,IADL,telephone,r8phonea,TRUE,r8phonea:w8 R Some Diff-Use a telephone
+ELSA,9,ADL,bath,r9batha,TRUE,"r9batha:w9 R Some Diff-Bathing, shower"
+ELSA,9,ADL,bed,r9beda,TRUE,r9beda:w9 R Some Diff-Get in/out bed
+ELSA,9,ADL,dress,r9dressa,TRUE,r9dressa:w9 R Some Diff-Dressing
+ELSA,9,ADL,eat,r9eata,TRUE,r9eata:w9 R Some Diff-Eating
+ELSA,9,ADL,toilet,r9toilta,TRUE,r9toilta:w9 R Some Diff-Using the toilet
+ELSA,9,IADL,meal,r9mealsa,TRUE,r9mealsa:w9 R Some Diff-Prepare hot meal
+ELSA,9,IADL,medication,r9medsa,TRUE,r9medsa:w9 R Some Diff-Take medications
+ELSA,9,IADL,money,r9moneya,TRUE,r9moneya:w9 R Some Diff-Managing money
+ELSA,9,IADL,shopping,r9shopa,TRUE,r9shopa:w9 R Some Diff-Shop for grocery
+ELSA,9,IADL,telephone,r9phonea,TRUE,r9phonea:w9 R Some Diff-Use a telephone
+ELSA,10,ADL,bath,r10batha,TRUE,"r10batha:w10 R Some Diff-Bathing, shower"
+ELSA,10,ADL,bed,r10beda,TRUE,r10beda:w10 R Some Diff-Get in/out bed
+ELSA,10,ADL,dress,r10dressa,TRUE,r10dressa:w10 R Some Diff-Dressing
+ELSA,10,ADL,eat,r10eata,TRUE,r10eata:w10 R Some Diff-Eating
+ELSA,10,ADL,toilet,r10toilta,TRUE,r10toilta:w10 R Some Diff-Using the toilet
+ELSA,10,IADL,meal,r10mealsa,TRUE,r10mealsa:w10 R Some Diff-Prepare hot meal
+ELSA,10,IADL,medication,r10medsa,TRUE,r10medsa:w10 R Some Diff-Take medications
+ELSA,10,IADL,money,r10moneya,TRUE,r10moneya:w10 R Some Diff-Managing money
+ELSA,10,IADL,shopping,r10shopa,TRUE,r10shopa:w10 R Some Diff-Shop for grocery
+ELSA,10,IADL,telephone,r10phonea,TRUE,r10phonea:w10 R Some Diff-Use a telephone
+HRS,2,ADL,bath,r2batha,TRUE,"r2batha:w2 r any diff-bathing, shower"
+HRS,2,ADL,bed,r2beda,TRUE,r2beda:w2 r any diff-get in/out bed
+HRS,2,ADL,dress,r2dressa,TRUE,r2dressa:w2 r any diff-dressing
+HRS,2,ADL,eat,r2eata,TRUE,r2eata:w2 r any diff-eating
+HRS,2,ADL,toilet,r2toilta,TRUE,r2toilta:w2 r any diff-using the toilet
+HRS,2,IADL,meal,r2mealsa,TRUE,r2mealsa:w2 r any diff-prepare hot meal
+HRS,2,IADL,medication,r2medsa,TRUE,r2medsa:w2 r any diff-take medications
+HRS,2,IADL,money,r2moneya,TRUE,r2moneya:w2 r any diff-managing money
+HRS,2,IADL,shopping,r2shopa,TRUE,r2shopa:w2 r any diff-shop for grocery
+HRS,2,IADL,telephone,r2phonea,TRUE,r2phonea:w2 r any diff-use telephone
+HRS,3,ADL,bath,r3batha,TRUE,"r3batha:w3 r any diff-bathing, shower"
+HRS,3,ADL,bed,r3beda,TRUE,r3beda:w3 r any diff-get in/out bed
+HRS,3,ADL,dress,r3dressa,TRUE,r3dressa:w3 r any diff-dressing
+HRS,3,ADL,eat,r3eata,TRUE,r3eata:w3 r any diff-eating
+HRS,3,ADL,toilet,r3toilta,TRUE,r3toilta:w3 r any diff-using the toilet
+HRS,3,IADL,meal,r3mealsa,TRUE,r3mealsa:w3 r any diff-prepare hot meal
+HRS,3,IADL,medication,r3medsa,TRUE,r3medsa:w3 r any diff-take medications
+HRS,3,IADL,money,r3moneya,TRUE,r3moneya:w3 r any diff-managing money
+HRS,3,IADL,shopping,r3shopa,TRUE,r3shopa:w3 r any diff-shop for grocery
+HRS,3,IADL,telephone,r3phonea,TRUE,r3phonea:w3 r any diff-use telephone
+HRS,4,ADL,bath,r4batha,TRUE,"r4batha:w4 r any diff-bathing, shower"
+HRS,4,ADL,bed,r4beda,TRUE,r4beda:w4 r any diff-get in/out bed
+HRS,4,ADL,dress,r4dressa,TRUE,r4dressa:w4 r any diff-dressing
+HRS,4,ADL,eat,r4eata,TRUE,r4eata:w4 r any diff-eating
+HRS,4,ADL,toilet,r4toilta,TRUE,r4toilta:w4 r any diff-using the toilet
+HRS,4,IADL,meal,r4mealsa,TRUE,r4mealsa:w4 r any diff-prepare hot meal
+HRS,4,IADL,medication,r4medsa,TRUE,r4medsa:w4 r any diff-take medications
+HRS,4,IADL,money,r4moneya,TRUE,r4moneya:w4 r any diff-managing money
+HRS,4,IADL,shopping,r4shopa,TRUE,r4shopa:w4 r any diff-shop for grocery
+HRS,4,IADL,telephone,r4phonea,TRUE,r4phonea:w4 r any diff-use telephone
+HRS,5,ADL,bath,r5batha,TRUE,"r5batha:w5 r any diff-bathing, shower"
+HRS,5,ADL,bed,r5beda,TRUE,r5beda:w5 r any diff-get in/out bed
+HRS,5,ADL,dress,r5dressa,TRUE,r5dressa:w5 r any diff-dressing
+HRS,5,ADL,eat,r5eata,TRUE,r5eata:w5 r any diff-eating
+HRS,5,ADL,toilet,r5toilta,TRUE,r5toilta:w5 r any diff-using the toilet
+HRS,5,IADL,meal,r5mealsa,TRUE,r5mealsa:w5 r any diff-prepare hot meal
+HRS,5,IADL,medication,r5medsa,TRUE,r5medsa:w5 r any diff-take medications
+HRS,5,IADL,money,r5moneya,TRUE,r5moneya:w5 r any diff-managing money
+HRS,5,IADL,shopping,r5shopa,TRUE,r5shopa:w5 r any diff-shop for grocery
+HRS,5,IADL,telephone,r5phonea,TRUE,r5phonea:w5 r any diff-use telephone
+HRS,6,ADL,bath,r6batha,TRUE,"r6batha:w6 r any diff-bathing, shower"
+HRS,6,ADL,bed,r6beda,TRUE,r6beda:w6 r any diff-get in/out bed
+HRS,6,ADL,dress,r6dressa,TRUE,r6dressa:w6 r any diff-dressing
+HRS,6,ADL,eat,r6eata,TRUE,r6eata:w6 r any diff-eating
+HRS,6,ADL,toilet,r6toilta,TRUE,r6toilta:w6 r any diff-using the toilet
+HRS,6,IADL,meal,r6mealsa,TRUE,r6mealsa:w6 r any diff-prepare hot meal
+HRS,6,IADL,medication,r6medsa,TRUE,r6medsa:w6 r any diff-take medications
+HRS,6,IADL,money,r6moneya,TRUE,r6moneya:w6 r any diff-managing money
+HRS,6,IADL,shopping,r6shopa,TRUE,r6shopa:w6 r any diff-shop for grocery
+HRS,6,IADL,telephone,r6phonea,TRUE,r6phonea:w6 r any diff-use telephone
+HRS,7,ADL,bath,r7batha,TRUE,"r7batha:w7 r any diff-bathing, shower"
+HRS,7,ADL,bed,r7beda,TRUE,r7beda:w7 r any diff-get in/out bed
+HRS,7,ADL,dress,r7dressa,TRUE,r7dressa:w7 r any diff-dressing
+HRS,7,ADL,eat,r7eata,TRUE,r7eata:w7 r any diff-eating
+HRS,7,ADL,toilet,r7toilta,TRUE,r7toilta:w7 r any diff-using the toilet
+HRS,7,IADL,meal,r7mealsa,TRUE,r7mealsa:w7 r any diff-prepare hot meal
+HRS,7,IADL,medication,r7medsa,TRUE,r7medsa:w7 r any diff-take medications
+HRS,7,IADL,money,r7moneya,TRUE,r7moneya:w7 r any diff-managing money
+HRS,7,IADL,shopping,r7shopa,TRUE,r7shopa:w7 r any diff-shop for grocery
+HRS,7,IADL,telephone,r7phonea,TRUE,r7phonea:w7 r any diff-use telephone
+HRS,8,ADL,bath,r8batha,TRUE,"r8batha:w8 r any diff-bathing, shower"
+HRS,8,ADL,bed,r8beda,TRUE,r8beda:w8 r any diff-get in/out bed
+HRS,8,ADL,dress,r8dressa,TRUE,r8dressa:w8 r any diff-dressing
+HRS,8,ADL,eat,r8eata,TRUE,r8eata:w8 r any diff-eating
+HRS,8,ADL,toilet,r8toilta,TRUE,r8toilta:w8 r any diff-using the toilet
+HRS,8,IADL,meal,r8mealsa,TRUE,r8mealsa:w8 r any diff-prepare hot meal
+HRS,8,IADL,medication,r8medsa,TRUE,r8medsa:w8 r any diff-take medications
+HRS,8,IADL,money,r8moneya,TRUE,r8moneya:w8 r any diff-managing money
+HRS,8,IADL,shopping,r8shopa,TRUE,r8shopa:w8 r any diff-shop for grocery
+HRS,8,IADL,telephone,r8phonea,TRUE,r8phonea:w8 r any diff-use telephone
+HRS,9,ADL,bath,r9batha,TRUE,"r9batha:w9 r any diff-bathing, shower"
+HRS,9,ADL,bed,r9beda,TRUE,r9beda:w9 r any diff-get in/out bed
+HRS,9,ADL,dress,r9dressa,TRUE,r9dressa:w9 r any diff-dressing
+HRS,9,ADL,eat,r9eata,TRUE,r9eata:w9 r any diff-eating
+HRS,9,ADL,toilet,r9toilta,TRUE,r9toilta:w9 r any diff-using the toilet
+HRS,9,IADL,meal,r9mealsa,TRUE,r9mealsa:w9 r any diff-prepare hot meal
+HRS,9,IADL,medication,r9medsa,TRUE,r9medsa:w9 r any diff-take medications
+HRS,9,IADL,money,r9moneya,TRUE,r9moneya:w9 r any diff-managing money
+HRS,9,IADL,shopping,r9shopa,TRUE,r9shopa:w9 r any diff-shop for grocery
+HRS,9,IADL,telephone,r9phonea,TRUE,r9phonea:w9 r any diff-use telephone
+HRS,10,ADL,bath,r10batha,TRUE,"r10batha:w10 r any diff-bathing, shower"
+HRS,10,ADL,bed,r10beda,TRUE,r10beda:w10 r any diff-get in/out bed
+HRS,10,ADL,dress,r10dressa,TRUE,r10dressa:w10 r any diff-dressing
+HRS,10,ADL,eat,r10eata,TRUE,r10eata:w10 r any diff-eating
+HRS,10,ADL,toilet,r10toilta,TRUE,r10toilta:w10 r any diff-using the toilet
+HRS,10,IADL,meal,r10mealsa,TRUE,r10mealsa:w10 r any diff-prepare hot meal
+HRS,10,IADL,medication,r10medsa,TRUE,r10medsa:w10 r any diff-take medications
+HRS,10,IADL,money,r10moneya,TRUE,r10moneya:w10 r any diff-managing money
+HRS,10,IADL,shopping,r10shopa,TRUE,r10shopa:w10 r any diff-shop for grocery
+HRS,10,IADL,telephone,r10phonea,TRUE,r10phonea:w10 r any diff-use telephone
+HRS,11,ADL,bath,r11batha,TRUE,"r11batha:w11 r any diff-bathing, shower"
+HRS,11,ADL,bed,r11beda,TRUE,r11beda:w11 r any diff-get in/out bed
+HRS,11,ADL,dress,r11dressa,TRUE,r11dressa:w11 r any diff-dressing
+HRS,11,ADL,eat,r11eata,TRUE,r11eata:w11 r any diff-eating
+HRS,11,ADL,toilet,r11toilta,TRUE,r11toilta:w11 r any diff-using the toilet
+HRS,11,IADL,meal,r11mealsa,TRUE,r11mealsa:w11 r any diff-prepare hot meal
+HRS,11,IADL,medication,r11medsa,TRUE,r11medsa:w11 r any diff-take medications
+HRS,11,IADL,money,r11moneya,TRUE,r11moneya:w11 r any diff-managing money
+HRS,11,IADL,shopping,r11shopa,TRUE,r11shopa:w11 r any diff-shop for grocery
+HRS,11,IADL,telephone,r11phonea,TRUE,r11phonea:w11 r any diff-use telephone
+HRS,12,ADL,bath,r12batha,TRUE,"r12batha:w12 r any diff-bathing, shower"
+HRS,12,ADL,bed,r12beda,TRUE,r12beda:w12 r any diff-get in/out bed
+HRS,12,ADL,dress,r12dressa,TRUE,r12dressa:w12 r any diff-dressing
+HRS,12,ADL,eat,r12eata,TRUE,r12eata:w12 r any diff-eating
+HRS,12,ADL,toilet,r12toilta,TRUE,r12toilta:w12 r any diff-using the toilet
+HRS,12,IADL,meal,r12mealsa,TRUE,r12mealsa:w12 r any diff-prepare hot meal
+HRS,12,IADL,medication,r12medsa,TRUE,r12medsa:w12 r any diff-take medications
+HRS,12,IADL,money,r12moneya,TRUE,r12moneya:w12 r any diff-managing money
+HRS,12,IADL,shopping,r12shopa,TRUE,r12shopa:w12 r any diff-shop for grocery
+HRS,12,IADL,telephone,r12phonea,TRUE,r12phonea:w12 r any diff-use telephone
+HRS,13,ADL,bath,r13batha,TRUE,"r13batha:w13 r any diff-bathing, shower"
+HRS,13,ADL,bed,r13beda,TRUE,r13beda:w13 r any diff-get in/out bed
+HRS,13,ADL,dress,r13dressa,TRUE,r13dressa:w13 r any diff-dressing
+HRS,13,ADL,eat,r13eata,TRUE,r13eata:w13 r any diff-eating
+HRS,13,ADL,toilet,r13toilta,TRUE,r13toilta:w13 r any diff-using the toilet
+HRS,13,IADL,meal,r13mealsa,TRUE,r13mealsa:w13 r any diff-prepare hot meal
+HRS,13,IADL,medication,r13medsa,TRUE,r13medsa:w13 r any diff-take medications
+HRS,13,IADL,money,r13moneya,TRUE,r13moneya:w13 r any diff-managing money
+HRS,13,IADL,shopping,r13shopa,TRUE,r13shopa:w13 r any diff-shop for grocery
+HRS,13,IADL,telephone,r13phonea,TRUE,r13phonea:w13 r any diff-use telephone
+HRS,14,ADL,bath,r14batha,TRUE,"r14batha:w14 r any diff-bathing, shower"
+HRS,14,ADL,bed,r14beda,TRUE,r14beda:w14 r any diff-get in/out bed
+HRS,14,ADL,dress,r14dressa,TRUE,r14dressa:w14 r any diff-dressing
+HRS,14,ADL,eat,r14eata,TRUE,r14eata:w14 r any diff-eating
+HRS,14,ADL,toilet,r14toilta,TRUE,r14toilta:w14 r any diff-using the toilet
+HRS,14,IADL,meal,r14mealsa,TRUE,r14mealsa:w14 r any diff-prepare hot meal
+HRS,14,IADL,medication,r14medsa,TRUE,r14medsa:w14 r any diff-take medications
+HRS,14,IADL,money,r14moneya,TRUE,r14moneya:w14 r any diff-managing money
+HRS,14,IADL,shopping,r14shopa,TRUE,r14shopa:w14 r any diff-shop for grocery
+HRS,14,IADL,telephone,r14phonea,TRUE,r14phonea:w14 r any diff-use telephone
+HRS,15,ADL,bath,r15batha,TRUE,"r15batha:w15 r any diff-bathing, shower"
+HRS,15,ADL,bed,r15beda,TRUE,r15beda:w15 r any diff-get in/out bed
+HRS,15,ADL,dress,r15dressa,TRUE,r15dressa:w15 r any diff-dressing
+HRS,15,ADL,eat,r15eata,TRUE,r15eata:w15 r any diff-eating
+HRS,15,ADL,toilet,r15toilta,TRUE,r15toilta:w15 r any diff-using the toilet
+HRS,15,IADL,meal,r15mealsa,TRUE,r15mealsa:w15 r any diff-prepare hot meal
+HRS,15,IADL,medication,r15medsa,TRUE,r15medsa:w15 r any diff-take medications
+HRS,15,IADL,money,r15moneya,TRUE,r15moneya:w15 r any diff-managing money
+HRS,15,IADL,shopping,r15shopa,TRUE,r15shopa:w15 r any diff-shop for grocery
+HRS,15,IADL,telephone,r15phonea,TRUE,r15phonea:w15 r any diff-use telephone
+HRS,16,ADL,bath,r16batha,TRUE,"r16batha:w16 r any diff-bathing, shower"
+HRS,16,ADL,bed,r16beda,TRUE,r16beda:w16 r any diff-get in/out bed
+HRS,16,ADL,dress,r16dressa,TRUE,r16dressa:w16 r any diff-dressing
+HRS,16,ADL,eat,r16eata,TRUE,r16eata:w16 r any diff-eating
+HRS,16,ADL,toilet,r16toilta,TRUE,r16toilta:w16 r any diff-using the toilet
+HRS,16,IADL,meal,r16mealsa,TRUE,r16mealsa:w16 r any diff-prepare hot meal
+HRS,16,IADL,medication,r16medsa,TRUE,r16medsa:w16 r any diff-take medications
+HRS,16,IADL,money,r16moneya,TRUE,r16moneya:w16 r any diff-managing money
+HRS,16,IADL,shopping,r16shopa,TRUE,r16shopa:w16 r any diff-shop for grocery
+HRS,16,IADL,telephone,r16phonea,TRUE,r16phonea:w16 r any diff-use telephone
+MHAS,1,ADL,bath,r1batha,TRUE,r1batha: w1 R Some difficulty-Bathing or showering
+MHAS,1,ADL,bed,r1beda,TRUE,r1beda: w1 R Some difficulty-Getting in/out of bed
+MHAS,1,ADL,dress,r1dressa,TRUE,r1dressa: w1 R Some difficulty-Dressing
+MHAS,1,ADL,eat,r1eata,TRUE,r1eata: w1 R Some difficulty-Eating
+MHAS,1,ADL,toilet,r1toilta,TRUE,r1toilta: w1 R Some difficulty-Using the toilet
+MHAS,1,IADL,meal,r1mealsa,TRUE,r1mealsa: w1 R Some difficulty-Preparing hot meals
+MHAS,1,IADL,medication,r1medsa,TRUE,r1medsa: w1 R Some difficulty-Taking medications
+MHAS,1,IADL,money,r1moneya,TRUE,r1moneya: w1 R Some difficulty-Managing money
+MHAS,1,IADL,shopping,r1shopa,TRUE,r1shopa: w1 R Some difficulty-Shopping for groceries
+MHAS,1,IADL,telephone,r1phonea,FALSE,""
+MHAS,2,ADL,bath,r2batha,TRUE,r2batha: w2 R Some difficulty-Bathing or showering
+MHAS,2,ADL,bed,r2beda,TRUE,r2beda: w2 R Some difficulty-Getting in/out of bed
+MHAS,2,ADL,dress,r2dressa,TRUE,r2dressa: w2 R Some difficulty-Dressing
+MHAS,2,ADL,eat,r2eata,TRUE,r2eata: w2 R Some difficulty-Eating
+MHAS,2,ADL,toilet,r2toilta,TRUE,r2toilta: w2 R Some difficulty-Using the toilet
+MHAS,2,IADL,meal,r2mealsa,TRUE,r2mealsa: w2 R Some difficulty-Preparing hot meals
+MHAS,2,IADL,medication,r2medsa,TRUE,r2medsa: w2 R Some difficulty-Taking medications
+MHAS,2,IADL,money,r2moneya,TRUE,r2moneya: w2 R Some difficulty-Managing money
+MHAS,2,IADL,shopping,r2shopa,TRUE,r2shopa: w2 R Some difficulty-Shopping for groceries
+MHAS,2,IADL,telephone,r2phonea,FALSE,""
+MHAS,3,ADL,bath,r3batha,TRUE,r3batha: w3 R Some difficulty-Bathing or showering
+MHAS,3,ADL,bed,r3beda,TRUE,r3beda: w3 R Some difficulty-Getting in/out of bed
+MHAS,3,ADL,dress,r3dressa,TRUE,r3dressa: w3 R Some difficulty-Dressing
+MHAS,3,ADL,eat,r3eata,TRUE,r3eata: w3 R Some difficulty-Eating
+MHAS,3,ADL,toilet,r3toilta,TRUE,r3toilta: w3 R Some difficulty-Using the toilet
+MHAS,3,IADL,meal,r3mealsa,TRUE,r3mealsa: w3 R Some difficulty-Preparing hot meals
+MHAS,3,IADL,medication,r3medsa,TRUE,r3medsa: w3 R Some difficulty-Taking medications
+MHAS,3,IADL,money,r3moneya,TRUE,r3moneya: w3 R Some difficulty-Managing money
+MHAS,3,IADL,shopping,r3shopa,TRUE,r3shopa: w3 R Some difficulty-Shopping for groceries
+MHAS,3,IADL,telephone,r3phonea,FALSE,""
+MHAS,4,ADL,bath,r4batha,TRUE,r4batha: w4 R Some difficulty-Bathing or showering
+MHAS,4,ADL,bed,r4beda,TRUE,r4beda: w4 R Some difficulty-Getting in/out of bed
+MHAS,4,ADL,dress,r4dressa,TRUE,r4dressa: w4 R Some difficulty-Dressing
+MHAS,4,ADL,eat,r4eata,TRUE,r4eata: w4 R Some difficulty-Eating
+MHAS,4,ADL,toilet,r4toilta,TRUE,r4toilta: w4 R Some difficulty-Using the toilet
+MHAS,4,IADL,meal,r4mealsa,TRUE,r4mealsa: w4 R Some difficulty-Preparing hot meals
+MHAS,4,IADL,medication,r4medsa,TRUE,r4medsa: w4 R Some difficulty-Taking medications
+MHAS,4,IADL,money,r4moneya,TRUE,r4moneya: w4 R Some difficulty-Managing money
+MHAS,4,IADL,shopping,r4shopa,TRUE,r4shopa: w4 R Some difficulty-Shopping for groceries
+MHAS,4,IADL,telephone,r4phonea,FALSE,""
+MHAS,5,ADL,bath,r5batha,TRUE,r5batha: w5 R Some difficulty-Bathing or showering
+MHAS,5,ADL,bed,r5beda,TRUE,r5beda: w5 R Some difficulty-Getting in/out of bed
+MHAS,5,ADL,dress,r5dressa,TRUE,r5dressa: w5 R Some difficulty-Dressing
+MHAS,5,ADL,eat,r5eata,TRUE,r5eata: w5 R Some difficulty-Eating
+MHAS,5,ADL,toilet,r5toilta,TRUE,r5toilta: w5 R Some difficulty-Using the toilet
+MHAS,5,IADL,meal,r5mealsa,TRUE,r5mealsa: w5 R Some difficulty-Preparing hot meals
+MHAS,5,IADL,medication,r5medsa,TRUE,r5medsa: w5 R Some difficulty-Taking medications
+MHAS,5,IADL,money,r5moneya,TRUE,r5moneya: w5 R Some difficulty-Managing money
+MHAS,5,IADL,shopping,r5shopa,TRUE,r5shopa: w5 R Some difficulty-Shopping for groceries
+MHAS,5,IADL,telephone,r5phonea,FALSE,""
+MHAS,6,ADL,bath,r6batha,TRUE,r6batha: w6 R Some difficulty-Bathing or showering
+MHAS,6,ADL,bed,r6beda,TRUE,r6beda: w6 R Some difficulty-Getting in/out of bed
+MHAS,6,ADL,dress,r6dressa,TRUE,r6dressa: w6 R Some difficulty-Dressing
+MHAS,6,ADL,eat,r6eata,TRUE,r6eata: w6 R Some difficulty-Eating
+MHAS,6,ADL,toilet,r6toilta,TRUE,r6toilta: w6 R Some difficulty-Using the toilet
+MHAS,6,IADL,meal,r6mealsa,TRUE,r6mealsa: w6 R Some difficulty-Preparing hot meals
+MHAS,6,IADL,medication,r6medsa,TRUE,r6medsa: w6 R Some difficulty-Taking medications
+MHAS,6,IADL,money,r6moneya,TRUE,r6moneya: w6 R Some difficulty-Managing money
+MHAS,6,IADL,shopping,r6shopa,TRUE,r6shopa: w6 R Some difficulty-Shopping for groceries
+MHAS,6,IADL,telephone,r6phonea,FALSE,""

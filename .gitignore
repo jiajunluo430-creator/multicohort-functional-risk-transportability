@@ -1,0 +1,16 @@
+data/
+02_derived/
+*.dta
+*.rds
+*.sav
+*.sas7bdat
+*.parquet
+*.duckdb
+*.db
+*.feather
+*.zip
+*.7z
+*.gz
+__pycache__/
+.Rhistory
+.RData

@@ -1,0 +1,350 @@
+{
+  "title": "Risk Ranking and Absolute-Risk Transportability for Functional Difficulty in 4 National Cohorts",
+  "title_characters": 95,
+  "key_points_words": 98,
+  "abstract_words": 348,
+  "main_text_words": 2410,
+  "references": 32,
+  "citations": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20,
+    21,
+    22,
+    23,
+    24,
+    25,
+    26,
+    27,
+    28,
+    29,
+    30,
+    31,
+    32
+  ],
+  "checks": [
+    {
+      "gate": "title_at_most_100_characters",
+      "passed": true,
+      "detail": 95
+    },
+    {
+      "gate": "title_names_ranking_probability_separation",
+      "passed": true,
+      "detail": "Risk Ranking and Absolute-Risk Transportability for Functional Difficulty in 4 National Cohorts"
+    },
+    {
+      "gate": "key_points_at_most_100_words",
+      "passed": true,
+      "detail": 98
+    },
+    {
+      "gate": "abstract_at_most_350_words",
+      "passed": true,
+      "detail": 348
+    },
+    {
+      "gate": "main_text_at_most_3000_words",
+      "passed": true,
+      "detail": 2410
+    },
+    {
+      "gate": "one_table_four_figures",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "gate": "cohort_study_label",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "gate": "separate_submission_abstract_headings",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "gate": "abstract_results_demographics_first",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "gate": "positive_increment_leads_abstract_results",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "gate": "headline_excludes_HRS_person_equal",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "gate": "results_section_order",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "gate": "results_positive_before_probability_error",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "gate": "table1_exact_five_column_order",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "gate": "table1_participant_only",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "gate": "table1_mean_sd_predictors",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "gate": "reference_numbers_sequential",
+      "passed": true,
+      "detail": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23,
+        24,
+        25,
+        26,
+        27,
+        28,
+        29,
+        30,
+        31,
+        32
+      ]
+    },
+    {
+      "gate": "all_references_cited",
+      "passed": true,
+      "detail": []
+    },
+    {
+      "gate": "citations_resolve",
+      "passed": true,
+      "detail": []
+    },
+    {
+      "gate": "references_first_appearance_order",
+      "passed": true,
+      "detail": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23,
+        24,
+        25,
+        26,
+        27,
+        28,
+        29,
+        30,
+        31,
+        32
+      ]
+    },
+    {
+      "gate": "DCA_references_cited",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "gate": "PROBAST_reference_cited",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "gate": "no_internal_revision_language",
+      "passed": true,
+      "detail": []
+    },
+    {
+      "gate": "all_required_numeric_phrases_present",
+      "passed": true,
+      "detail": []
+    },
+    {
+      "gate": "four_primary_limitations_declared",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "gate": "two_wave_rationale_present",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "gate": "CITL_not_sufficient_trigger",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "gate": "history_models_disclosed_in_supplement",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "gate": "post_result_HRS_test_scope_disclosed_in_supplement",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "gate": "HRS_sensitivity_demoted_to_supplement",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "gate": "main_figure4_primary_equal_cohort_only",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "gate": "supplement_contains_eight_efigures",
+      "passed": true,
+      "detail": 8
+    },
+    {
+      "gate": "clinical_implications_paragraph_present",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "gate": "explicit_contribution_statement_present",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "gate": "positive_final_pathway",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "gate": "AI_disclosure_in_methods",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "gate": "no_defensive_audit_phrasing",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "gate": "pre_update_terminology_replaces_untouched",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "gate": "key_points_meaning_has_decision_number",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "gate": "figure1_legend_matches_display",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "gate": "figure2_random_split_axis_is_cohort_specific_evaluation",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "gate": "author_names_and_known_degrees_present",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "gate": "author_affiliations_present",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "gate": "funding_and_conflict_statements_present",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "gate": "parent_cohort_ethics_and_consent_present",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "gate": "clean_cover_letter",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "gate": "cover_has_no_checklist_upload_claim",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "gate": "supplement_has_exactly_31_data_sheets",
+      "passed": true,
+      "detail": 31
+    }
+  ]
+}

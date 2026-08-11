@@ -1,0 +1,37 @@
+{
+  "python": "3.12.13 (main, Mar  3 2026, 15:01:35) [MSC v.1944 64 bit (AMD64)]",
+  "platform": "Windows-11-10.0.26200-SP0",
+  "numpy": "2.3.5",
+  "pandas": "3.0.1",
+  "riskset": "strict nine-item two-wave primary 2-3-year",
+  "model": "M1 country-out predictions",
+  "outer_splits": 30,
+  "inner_resamples": 100,
+  "outer_evaluation_fraction_persons": 0.4,
+  "calibration_pool_fraction_persons": 0.6,
+  "calibration_fractions_total_target_persons": [
+    0.05,
+    0.1,
+    0.2,
+    0.3,
+    0.4,
+    0.5,
+    0.6
+  ],
+  "brier_noninferiority_tolerance": 0.001,
+  "dca_thresholds": [
+    0.05,
+    0.075,
+    0.1,
+    0.125,
+    0.15,
+    0.175,
+    0.2,
+    0.225,
+    0.25,
+    0.275,
+    0.3
+  ],
+  "split_unit": "person",
+  "data_amount_claim": "continuous curves; descriptive operating point is not a minimum-data requirement"
+}

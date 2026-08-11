@@ -1,0 +1,2 @@
+cohort,model,development_weighting,records,persons,events,observed_risk,mean_prediction,observed_minus_predicted_pp,auc,brier,calibration_intercept,calibration_slope
+HRS,M1,person_equal,83941,20016,8066,0.0960913022241813,0.189744484921129,-9.36531826969481,0.752837896252131,0.0902812187811366,-0.869659590364612,1.08864820962678

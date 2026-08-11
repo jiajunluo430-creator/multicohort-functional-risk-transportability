@@ -1,0 +1,16 @@
+{
+  "repetitions": 300,
+  "resampling_unit": "person within held-out cohort",
+  "paired_models": [
+    "M0",
+    "M1"
+  ],
+  "risksets": [
+    "two_wave",
+    "one_wave"
+  ],
+  "evaluation_weighting": "unweighted",
+  "base_seed": 20260809,
+  "max_cross_language_point_difference": 3.774758283725532e-15,
+  "validation_pass": true
+}

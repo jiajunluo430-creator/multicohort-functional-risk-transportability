@@ -1,0 +1,20 @@
+{
+  "charter": "F:\\DATA\\high_public_data\\Direction2_function_dependency_transportability\\00_contract\\analysis_charter_v2.3_final_minor_revision.md",
+  "prediction_source": "F:\\DATA\\high_public_data\\Direction2_function_dependency_transportability\\03_results\\16_submission_upgrade_v23\\01_hrs_person_equal_dca\\v23_HRS_person_equal_M1_predictions.csv.gz",
+  "equal_cohort_reference": "F:\\DATA\\high_public_data\\Direction2_function_dependency_transportability\\03_results\\14_reviewer_revision_v21\\07_nested_local_updating\\v21_strict9_disjoint_sample_dca_by_outer_split.csv.gz",
+  "python": "3.12.13 (main, Mar  3 2026, 15:01:35) [MSC v.1944 64 bit (AMD64)]",
+  "platform": "Windows-11-10.0.26200-SP0",
+  "numpy": "2.3.5",
+  "pandas": "3.0.1",
+  "target": "HRS",
+  "model": "M1",
+  "development_weighting": "person_equal",
+  "threshold": 0.2,
+  "outer_splits": 30,
+  "outer_evaluation_fraction_persons": 0.4,
+  "split_seed_formula": "20260809 + 2*100000 + outer_split*1000",
+  "update": "intercept_only_full_60_percent_calibration_pool",
+  "evaluation": "disjoint_40_percent_target_persons",
+  "percentiles": "empirical_2.5_and_97.5_across_outer_splits",
+  "no_inner_resampling_reason": "DCA branch uses the full outer calibration pool; 100 inner resamples belong only to the reused data-amount curves"
+}

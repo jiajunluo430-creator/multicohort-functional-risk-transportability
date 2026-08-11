@@ -1,0 +1,10 @@
+gate,passed
+records,TRUE
+events,TRUE
+observed_risk,TRUE
+mean_prediction,TRUE
+gap,TRUE
+auc,TRUE
+brier,TRUE
+citl,TRUE
+slope,TRUE

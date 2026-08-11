@@ -1,0 +1,5 @@
+cohort,riskset_sequences,observed_sequences,observed_proportion,confirmed_deaths,unknown_alive_or_dead,other_unavailable
+CHARLS,4415,3915,0.886749716874292,187,304,9
+ELSA,35595,30611,0.859980334316617,376,3600,1008
+HRS,96635,83941,0.868639726807058,3751,0,8943
+MHAS,9960,7797,0.782831325301205,617,246,1300

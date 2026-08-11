@@ -1,0 +1,5 @@
+cohort,death_year_variable,interview_status_variables,classification,known_boundary
+CHARLS,radyear,r2iwstat-r4iwstat,confirmed iwstat=5 or death year within landmark-to-outcome interval,Source-specific confirmation
+HRS,radyear,r2iwstat-r16iwstat,confirmed iwstat=5 or death year within landmark-to-outcome interval,Source-specific confirmation
+ELSA,not available,r1iwstat-r10iwstat,confirmed iwstat=5 only; no respondent death-year field located,No respondent death-year field; later-wave iwstat death confirmation incomplete
+MHAS,radyear,r1iwstat-r6iwstat,confirmed iwstat=5 or death year within landmark-to-outcome interval,Source-specific confirmation

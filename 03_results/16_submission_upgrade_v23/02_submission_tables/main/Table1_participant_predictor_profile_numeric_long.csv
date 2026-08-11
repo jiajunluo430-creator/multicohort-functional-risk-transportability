@@ -1,0 +1,121 @@
+cohort,characteristic,statistic,value,denominator,missing
+CHARLS,"Participants, No.",count,3915,3915,0
+CHARLS,"Age, mean (SD), y",mean,66.9555555555556,3915,0
+CHARLS,"Age, mean (SD), y",sd,6.01951915013498,3915,0
+CHARLS,"Female, No. (%)",count,1703,3915,0
+CHARLS,"Female, No. (%)",percent,43.4993614303959,3915,0
+CHARLS,"Education: low, No. (%)",count,3558,3915,0
+CHARLS,"Education: low, No. (%)",percent,90.8812260536398,3915,0
+CHARLS,"Education: middle, No. (%)",count,291,3915,0
+CHARLS,"Education: middle, No. (%)",percent,7.43295019157088,3915,0
+CHARLS,"Education: high, No. (%)",count,66,3915,0
+CHARLS,"Education: high, No. (%)",percent,1.68582375478927,3915,0
+CHARLS,"Partnered, No. (%)",count,3304,3915,0
+CHARLS,"Partnered, No. (%)",percent,84.3933588761175,3915,0
+CHARLS,"Current smoking, No. (%)",count,1233,3913,2
+CHARLS,"Current smoking, No. (%)",percent,31.5103501150013,3913,2
+CHARLS,"Any M1 predictor missing, No. (%)",count,345,3915,0
+CHARLS,"Any M1 predictor missing, No. (%)",percent,8.81226053639847,3915,0
+CHARLS,"Proxy interview, No. (%)",count,0,0,3915
+CHARLS,"Proxy interview, No. (%)",percent,,0,3915
+CHARLS,"Self-rated health score, mean (SD)",mean,3.68304154690358,3827,88
+CHARLS,"Self-rated health score, mean (SD)",sd,0.906578356725395,3827,88
+CHARLS,"Mobility difficulty score, mean (SD)",mean,0.428205784489378,3907,8
+CHARLS,"Mobility difficulty score, mean (SD)",sd,0.71746048319297,3907,8
+CHARLS,"Chronic condition count, mean (SD)",mean,0.860890953812517,3659,256
+CHARLS,"Chronic condition count, mean (SD)",sd,0.825077410005584,3659,256
+CHARLS,"Depression symptom proportion, mean (SD)",mean,0.213329843845416,3821,94
+CHARLS,"Depression symptom proportion, mean (SD)",sd,0.177262618888759,3821,94
+CHARLS,"Prediction horizon, median (IQR), y",median,3,3915,0
+CHARLS,"Prediction horizon, median (IQR), y",q25,3,3915,0
+CHARLS,"Prediction horizon, median (IQR), y",q75,3,3915,0
+ELSA,"Participants, No.",count,8609,8609,0
+ELSA,"Age, mean (SD), y",mean,66.3864560343826,8609,0
+ELSA,"Age, mean (SD), y",sd,7.01030889846893,8609,0
+ELSA,"Female, No. (%)",count,4590,8609,0
+ELSA,"Female, No. (%)",percent,53.3162968985945,8609,0
+ELSA,"Education: low, No. (%)",count,2490,7906,703
+ELSA,"Education: low, No. (%)",percent,31.4950670376929,7906,703
+ELSA,"Education: middle, No. (%)",count,3869,7906,703
+ELSA,"Education: middle, No. (%)",percent,48.9375158107766,7906,703
+ELSA,"Education: high, No. (%)",count,1547,7906,703
+ELSA,"Education: high, No. (%)",percent,19.5674171515305,7906,703
+ELSA,"Partnered, No. (%)",count,6345,8608,1
+ELSA,"Partnered, No. (%)",percent,73.7105018587361,8608,1
+ELSA,"Current smoking, No. (%)",count,994,8573,36
+ELSA,"Current smoking, No. (%)",percent,11.5945410008165,8573,36
+ELSA,"Any M1 predictor missing, No. (%)",count,926,8609,0
+ELSA,"Any M1 predictor missing, No. (%)",percent,10.7561853873853,8609,0
+ELSA,"Proxy interview, No. (%)",count,213,8609,0
+ELSA,"Proxy interview, No. (%)",percent,2.47415495411778,8609,0
+ELSA,"Self-rated health score, mean (SD)",mean,2.48010483678818,8394,215
+ELSA,"Self-rated health score, mean (SD)",sd,0.988506420381971,8394,215
+ELSA,"Mobility difficulty score, mean (SD)",mean,0.523638053200139,8609,0
+ELSA,"Mobility difficulty score, mean (SD)",sd,0.815555069619168,8609,0
+ELSA,"Chronic condition count, mean (SD)",mean,0.850505285166686,8609,0
+ELSA,"Chronic condition count, mean (SD)",sd,0.855403249409084,8609,0
+ELSA,"Depression symptom proportion, mean (SD)",mean,0.138800837320574,8360,249
+ELSA,"Depression symptom proportion, mean (SD)",sd,0.203079490020912,8360,249
+ELSA,"Prediction horizon, median (IQR), y",median,2,8609,0
+ELSA,"Prediction horizon, median (IQR), y",q25,2,8609,0
+ELSA,"Prediction horizon, median (IQR), y",q75,2,8609,0
+HRS,"Participants, No.",count,20016,20016,0
+HRS,"Age, mean (SD), y",mean,66.0568545163869,20016,0
+HRS,"Age, mean (SD), y",sd,6.97561256092019,20016,0
+HRS,"Female, No. (%)",count,11653,20016,0
+HRS,"Female, No. (%)",percent,58.2184252597922,20016,0
+HRS,"Education: low, No. (%)",count,3988,20012,4
+HRS,"Education: low, No. (%)",percent,19.9280431740955,20012,4
+HRS,"Education: middle, No. (%)",count,11560,20012,4
+HRS,"Education: middle, No. (%)",percent,57.7653407955227,20012,4
+HRS,"Education: high, No. (%)",count,4464,20012,4
+HRS,"Education: high, No. (%)",percent,22.3066160303818,20012,4
+HRS,"Partnered, No. (%)",count,13742,20004,12
+HRS,"Partnered, No. (%)",percent,68.6962607478504,20004,12
+HRS,"Current smoking, No. (%)",count,2790,19969,47
+HRS,"Current smoking, No. (%)",percent,13.9716560669037,19969,47
+HRS,"Any M1 predictor missing, No. (%)",count,1374,20016,0
+HRS,"Any M1 predictor missing, No. (%)",percent,6.86450839328537,20016,0
+HRS,"Proxy interview, No. (%)",count,775,20016,0
+HRS,"Proxy interview, No. (%)",percent,3.87190247801759,20016,0
+HRS,"Self-rated health score, mean (SD)",mean,2.60601819454164,20006,10
+HRS,"Self-rated health score, mean (SD)",sd,0.99352151422053,20006,10
+HRS,"Mobility difficulty score, mean (SD)",mean,0.741244736571839,19474,542
+HRS,"Mobility difficulty score, mean (SD)",sd,0.937779068242759,19474,542
+HRS,"Chronic condition count, mean (SD)",mean,1.25979216626699,20016,0
+HRS,"Chronic condition count, mean (SD)",sd,0.987837117212639,20016,0
+HRS,"Depression symptom proportion, mean (SD)",mean,0.142422667013257,19235,781
+HRS,"Depression symptom proportion, mean (SD)",sd,0.209588147625529,19235,781
+HRS,"Prediction horizon, median (IQR), y",median,2,20016,0
+HRS,"Prediction horizon, median (IQR), y",q25,2,20016,0
+HRS,"Prediction horizon, median (IQR), y",q75,2,20016,0
+MHAS,"Participants, No.",count,5192,5192,0
+MHAS,"Age, mean (SD), y",mean,67.872688751926,5192,0
+MHAS,"Age, mean (SD), y",sd,6.31414259413731,5192,0
+MHAS,"Female, No. (%)",count,2995,5192,0
+MHAS,"Female, No. (%)",percent,57.6848998459168,5192,0
+MHAS,"Education: low, No. (%)",count,4425,5152,40
+MHAS,"Education: low, No. (%)",percent,85.8889751552795,5152,40
+MHAS,"Education: middle, No. (%)",count,162,5152,40
+MHAS,"Education: middle, No. (%)",percent,3.1444099378882,5152,40
+MHAS,"Education: high, No. (%)",count,565,5152,40
+MHAS,"Education: high, No. (%)",percent,10.9666149068323,5152,40
+MHAS,"Partnered, No. (%)",count,3527,5192,0
+MHAS,"Partnered, No. (%)",percent,67.9314329738059,5192,0
+MHAS,"Current smoking, No. (%)",count,585,5189,3
+MHAS,"Current smoking, No. (%)",percent,11.2738485257275,5189,3
+MHAS,"Any M1 predictor missing, No. (%)",count,147,5192,0
+MHAS,"Any M1 predictor missing, No. (%)",percent,2.83127889060092,5192,0
+MHAS,"Proxy interview, No. (%)",count,0,5192,0
+MHAS,"Proxy interview, No. (%)",percent,0,5192,0
+MHAS,"Self-rated health score, mean (SD)",mean,3.61772639691715,5190,2
+MHAS,"Self-rated health score, mean (SD)",sd,0.793543172923218,5190,2
+MHAS,"Mobility difficulty score, mean (SD)",mean,0.757005682931609,5103,89
+MHAS,"Mobility difficulty score, mean (SD)",sd,0.947741445168709,5103,89
+MHAS,"Chronic condition count, mean (SD)",mean,1.15739667825415,5178,14
+MHAS,"Chronic condition count, mean (SD)",sd,0.926789047423604,5178,14
+MHAS,"Depression symptom proportion, mean (SD)",mean,0.314779147406266,5192,0
+MHAS,"Depression symptom proportion, mean (SD)",sd,0.268001386959204,5192,0
+MHAS,"Prediction horizon, median (IQR), y",median,3,5192,0
+MHAS,"Prediction horizon, median (IQR), y",q25,3,5192,0
+MHAS,"Prediction horizon, median (IQR), y",q75,3,5192,0

@@ -1,0 +1,5 @@
+gate,passed
+all_models_predict_all_windows,TRUE
+long_MHAS_history_or_prediction_not_in_primary_scope,TRUE
+raw_all_windows_reported,TRUE
+temporal_update_worsening_flags_reported,TRUE

@@ -1,0 +1,711 @@
+cohort,variable,variable_label,class
+CHARLS,h1dchild,h1dchild:w1 total number of deceased children,numeric
+CHARLS,h1ddau,h1ddau:w1 number of deceased daughters,numeric
+CHARLS,h1dson,h1dson:w1 number of deceased sons,numeric
+CHARLS,h2dchild,h2dchild:w2 total number of deceased children,numeric
+CHARLS,h2ddau,h2ddau:w2 number of deceased daughters,numeric
+CHARLS,h2dson,h2dson:w2 number of deceased sons,numeric
+CHARLS,h3dchild,h3dchild:w3 total number of deceased children,numeric
+CHARLS,h3ddau,h3ddau:w3 number of deceased daughters,numeric
+CHARLS,h3dson,h3dson:w3 number of deceased sons,numeric
+CHARLS,h4dchild,h4dchild:w4 total number of deceased children,numeric
+CHARLS,h4ddau,h4ddau:w4 number of deceased daughters,numeric
+CHARLS,h4dson,h4dson:w4 number of deceased sons,numeric
+CHARLS,hh1amort,hh1amort:w1 Asset: HHold total mortgage for primary residence,numeric
+CHARLS,hh2amort,hh2amort:w2 Asset: HHold total mortgage for primary residence,numeric
+CHARLS,r1chdeathe,r1chdeathe:w1 r ever experienced death of own child,haven_labelled;vctrs_vctr;double
+CHARLS,r1dadage,r1dadage:w1 r father's age current/at death,numeric
+CHARLS,r1decbro,r1decbro:w1 r number of deceased brothers,numeric
+CHARLS,r1decsib,r1decsib:w1 r number of deceased siblings,numeric
+CHARLS,r1decsis,r1decsis:w1 r number of deceased sisters,numeric
+CHARLS,r1iwstat,r1iwstat:w1 r interview status,haven_labelled;vctrs_vctr;double
+CHARLS,r1momage,r1momage:w1 r mother's age current/at death,numeric
+CHARLS,r2chdeathe,r2chdeathe:w2 r ever experienced death of own child,haven_labelled;vctrs_vctr;double
+CHARLS,r2dadage,r2dadage:w2 r father's age current/at death,numeric
+CHARLS,r2decbro,r2decbro:w2 r number of deceased brothers,numeric
+CHARLS,r2decsib,r2decsib:w2 r number of deceased siblings,numeric
+CHARLS,r2decsis,r2decsis:w2 r number of deceased sisters,numeric
+CHARLS,r2iwstat,r2iwstat:w2 r interview status,haven_labelled;vctrs_vctr;double
+CHARLS,r2momage,r2momage:w2 r mother's age current/at death,numeric
+CHARLS,r3chdeathe,r3chdeathe:w3 r ever experienced death of own child,haven_labelled;vctrs_vctr;double
+CHARLS,r3dadage,r3dadage:w3 r father's age current/at death,numeric
+CHARLS,r3decbro,r3decbro:w3 r number of deceased brothers,numeric
+CHARLS,r3decsib,r3decsib:w3 r number of deceased siblings,numeric
+CHARLS,r3decsis,r3decsis:w3 r number of deceased sisters,numeric
+CHARLS,r3iwstat,r3iwstat:w3 r interview status,haven_labelled;vctrs_vctr;double
+CHARLS,r3momage,r3momage:w3 r mother's age current/at death,numeric
+CHARLS,r4chdeathe,r4chdeathe:w4 r ever experienced death of own child,haven_labelled;vctrs_vctr;double
+CHARLS,r4dadage,r4dadage:w4 r father's age current/at death,numeric
+CHARLS,r4decbro,r4decbro:w4 r number of deceased brothers,numeric
+CHARLS,r4decsib,r4decsib:w4 r number of deceased siblings,numeric
+CHARLS,r4decsis,r4decsis:w4 r number of deceased sisters,numeric
+CHARLS,r4iwstat,r4iwstat:w4 r interview status,haven_labelled;vctrs_vctr;double
+CHARLS,r4momage,r4momage:w4 r mother's age current/at death,numeric
+CHARLS,radmonth,radmonth:r death month,numeric
+CHARLS,radyear,radyear:r death year,numeric
+CHARLS,s1chdeathe,s1chdeathe:w1 s ever experienced death of own child,haven_labelled;vctrs_vctr;double
+CHARLS,s1dadage,s1dadage:w1 s father's age current/at death,numeric
+CHARLS,s1decbro,s1decbro:w1 s number of deceased brothers,numeric
+CHARLS,s1decsib,s1decsib:w1 s number of deceased siblings,numeric
+CHARLS,s1decsis,s1decsis:w1 s number of deceased sisters,numeric
+CHARLS,s1dmonth,s1dmonth:w1 s death month,numeric
+CHARLS,s1dyear,s1dyear:w1 s death year,numeric
+CHARLS,s1iwstat,s1iwstat:w1 s interview status,haven_labelled;vctrs_vctr;double
+CHARLS,s1momage,s1momage:w1 s mother's age current/at death,numeric
+CHARLS,s2chdeathe,s2chdeathe:w2 s ever experienced death of own child,haven_labelled;vctrs_vctr;double
+CHARLS,s2dadage,s2dadage:w2 s father's age current/at death,numeric
+CHARLS,s2decbro,s2decbro:w2 s number of deceased brothers,numeric
+CHARLS,s2decsib,s2decsib:w2 s number of deceased siblings,numeric
+CHARLS,s2decsis,s2decsis:w2 s number of deceased sisters,numeric
+CHARLS,s2iwstat,s2iwstat:w2 s interview status,haven_labelled;vctrs_vctr;double
+CHARLS,s2momage,s2momage:w2 s mother's age current/at death,numeric
+CHARLS,s3chdeathe,s3chdeathe:w3 s ever experienced death of own child,haven_labelled;vctrs_vctr;double
+CHARLS,s3dadage,s3dadage:w3 s father's age current/at death,numeric
+CHARLS,s3decbro,s3decbro:w3 s number of deceased brothers,numeric
+CHARLS,s3decsib,s3decsib:w3 s number of deceased siblings,numeric
+CHARLS,s3decsis,s3decsis:w3 s number of deceased sisters,numeric
+CHARLS,s3iwstat,s3iwstat:w3 s interview status,haven_labelled;vctrs_vctr;double
+CHARLS,s3momage,s3momage:w3 s mother's age current/at death,numeric
+CHARLS,s4chdeathe,s4chdeathe:w4 s ever experienced death of own child,haven_labelled;vctrs_vctr;double
+CHARLS,s4dadage,s4dadage:w4 s father's age current/at death,numeric
+CHARLS,s4decbro,s4decbro:w4 s number of deceased brothers,numeric
+CHARLS,s4decsib,s4decsib:w4 s number of deceased siblings,numeric
+CHARLS,s4decsis,s4decsis:w4 s number of deceased sisters,numeric
+CHARLS,s4iwstat,s4iwstat:w4 s interview status,haven_labelled;vctrs_vctr;double
+CHARLS,s4momage,s4momage:w4 s mother's age current/at death,numeric
+ELSA,h10afmort,h10afmort:w10 flag: value of mortgage/prim res,haven_labelled;vctrs_vctr;double
+ELSA,h10amort,h10amort:w10 value of mortgage/prim res,numeric
+ELSA,h1afmort,h1afmort:w1 flag: value of mortgage/prim res,haven_labelled;vctrs_vctr;double
+ELSA,h1amort,h1amort:w1 value of mortgage/prim res,numeric
+ELSA,h2afmort,h2afmort:w2 flag: value of mortgage/prim res,haven_labelled;vctrs_vctr;double
+ELSA,h2amort,h2amort:w2 value of mortgage/prim res,numeric
+ELSA,h3afmort,h3afmort:w3 flag: value of mortgage/prim res,haven_labelled;vctrs_vctr;double
+ELSA,h3amort,h3amort:w3 value of mortgage/prim res,numeric
+ELSA,h4afmort,h4afmort:w4 flag: value of mortgage/prim res,haven_labelled;vctrs_vctr;double
+ELSA,h4amort,h4amort:w4 value of mortgage/prim res,numeric
+ELSA,h5afmort,h5afmort:w5 flag: value of mortgage/prim res,haven_labelled;vctrs_vctr;double
+ELSA,h5amort,h5amort:w5 value of mortgage/prim res,numeric
+ELSA,h6afmort,h6afmort:w6 flag: value of mortgage/prim res,haven_labelled;vctrs_vctr;double
+ELSA,h6amort,h6amort:w6 value of mortgage/prim res,numeric
+ELSA,h7afmort,h7afmort:w7 flag: value of mortgage/prim res,haven_labelled;vctrs_vctr;double
+ELSA,h7amort,h7amort:w7 value of mortgage/prim res,numeric
+ELSA,h8afmort,h8afmort:w8 flag: value of mortgage/prim res,haven_labelled;vctrs_vctr;double
+ELSA,h8amort,h8amort:w8 value of mortgage/prim res,numeric
+ELSA,h9afmort,h9afmort:w9 flag: value of mortgage/prim res,haven_labelled;vctrs_vctr;double
+ELSA,h9amort,h9amort:w9 value of mortgage/prim res,numeric
+ELSA,r10dadage,r10dadage:w10 R father age current/at death,numeric
+ELSA,r10iwstat,r10iwstat:w10 r interview status,haven_labelled;vctrs_vctr;double
+ELSA,r10momage,r10momage:w10 R mother age current/at death,numeric
+ELSA,r1dadage,r1dadage:w1 R father age current/at death,numeric
+ELSA,r1iwstat,r1iwstat:w1 r interview status,haven_labelled;vctrs_vctr;double
+ELSA,r1momage,r1momage:w1 R mother age current/at death,numeric
+ELSA,r2dadage,r2dadage:w2 R father age current/at death,numeric
+ELSA,r2fvc,r2fvc:w2 r maximum lung function forced vital capacity,numeric
+ELSA,r2fvc1,r2fvc1:w2 r lung function forced vital capacity 1,numeric
+ELSA,r2fvc2,r2fvc2:w2 r lung function forced vital capacity 2,numeric
+ELSA,r2fvc3,r2fvc3:w2 r lung function forced vital capacity 3,numeric
+ELSA,r2iwstat,r2iwstat:w2 r interview status,haven_labelled;vctrs_vctr;double
+ELSA,r2momage,r2momage:w2 R mother age current/at death,numeric
+ELSA,r3dadage,r3dadage:w3 R father age current/at death,numeric
+ELSA,r3iwstat,r3iwstat:w3 r interview status,haven_labelled;vctrs_vctr;double
+ELSA,r3momage,r3momage:w3 R mother age current/at death,numeric
+ELSA,r4dadage,r4dadage:w4 R father age current/at death,numeric
+ELSA,r4fvc,r4fvc:w4 r maximum lung function forced vital capacity,numeric
+ELSA,r4fvc1,r4fvc1:w4 r lung function forced vital capacity 1,numeric
+ELSA,r4fvc2,r4fvc2:w4 r lung function forced vital capacity 2,numeric
+ELSA,r4fvc3,r4fvc3:w4 r lung function forced vital capacity 3,numeric
+ELSA,r4iwstat,r4iwstat:w4 r interview status,haven_labelled;vctrs_vctr;double
+ELSA,r4momage,r4momage:w4 R mother age current/at death,numeric
+ELSA,r5dadage,r5dadage:w5 R father age current/at death,numeric
+ELSA,r5iwstat,r5iwstat:w5 r interview status,haven_labelled;vctrs_vctr;double
+ELSA,r5momage,r5momage:w5 R mother age current/at death,numeric
+ELSA,r6dadage,r6dadage:w6 R father age current/at death,numeric
+ELSA,r6fvc_e,r6fvc_e:w6 r maximum lung function forced vital capacity,numeric
+ELSA,r6iwstat,r6iwstat:w6 r interview status,haven_labelled;vctrs_vctr;double
+ELSA,r6momage,r6momage:w6 R mother age current/at death,numeric
+ELSA,r7dadage,r7dadage:w7 R father age current/at death,numeric
+ELSA,r7iwstat,r7iwstat:w7 r interview status,haven_labelled;vctrs_vctr;double
+ELSA,r7momage,r7momage:w7 R mother age current/at death,numeric
+ELSA,r8dadage,r8dadage:w8 R father age current/at death,numeric
+ELSA,r8iwstat,r8iwstat:w8 r interview status,haven_labelled;vctrs_vctr;double
+ELSA,r8momage,r8momage:w8 R mother age current/at death,numeric
+ELSA,r9dadage,r9dadage:w9 R father age current/at death,numeric
+ELSA,r9iwstat,r9iwstat:w9 r interview status,haven_labelled;vctrs_vctr;double
+ELSA,r9momage,r9momage:w9 R mother age current/at death,numeric
+ELSA,s10dadage,s10dadage:w10 S father age current/at death,numeric
+ELSA,s10iwstat,s10iwstat:w10 s interview status,haven_labelled;vctrs_vctr;double
+ELSA,s10momage,s10momage:w10 S mother age current/at death,numeric
+ELSA,s1dadage,s1dadage:w1 S father age current/at death,numeric
+ELSA,s1iwstat,s1iwstat:w1 s interview status,haven_labelled;vctrs_vctr;double
+ELSA,s1momage,s1momage:w1 S mother age current/at death,numeric
+ELSA,s2dadage,s2dadage:w2 S father age current/at death,numeric
+ELSA,s2fvc,s2fvc:w2 s maximum lung function forced vital capacity,numeric
+ELSA,s2fvc1,s2fvc1:w2 s lung function forced vital capacity 1,numeric
+ELSA,s2fvc2,s2fvc2:w2 s lung function forced vital capacity 2,numeric
+ELSA,s2fvc3,s2fvc3:w2 s lung function forced vital capacity 3,numeric
+ELSA,s2iwstat,s2iwstat:w2 s interview status,haven_labelled;vctrs_vctr;double
+ELSA,s2momage,s2momage:w2 S mother age current/at death,numeric
+ELSA,s3dadage,s3dadage:w3 S father age current/at death,numeric
+ELSA,s3iwstat,s3iwstat:w3 s interview status,haven_labelled;vctrs_vctr;double
+ELSA,s3momage,s3momage:w3 S mother age current/at death,numeric
+ELSA,s4dadage,s4dadage:w4 S father age current/at death,numeric
+ELSA,s4fvc,s4fvc:w4 s maximum lung function forced vital capacity,numeric
+ELSA,s4fvc1,s4fvc1:w4 s lung function forced vital capacity 1,numeric
+ELSA,s4fvc2,s4fvc2:w4 s lung function forced vital capacity 2,numeric
+ELSA,s4fvc3,s4fvc3:w4 s lung function forced vital capacity 3,numeric
+ELSA,s4iwstat,s4iwstat:w4 s interview status,haven_labelled;vctrs_vctr;double
+ELSA,s4momage,s4momage:w4 S mother age current/at death,numeric
+ELSA,s5dadage,s5dadage:w5 S father age current/at death,numeric
+ELSA,s5iwstat,s5iwstat:w5 s interview status,haven_labelled;vctrs_vctr;double
+ELSA,s5momage,s5momage:w5 S mother age current/at death,numeric
+ELSA,s6dadage,s6dadage:w6 S father age current/at death,numeric
+ELSA,s6fvc_e,s6fvc_e:w6 s maximum lung function forced vital capacity,numeric
+ELSA,s6iwstat,s6iwstat:w6 s interview status,haven_labelled;vctrs_vctr;double
+ELSA,s6momage,s6momage:w6 S mother age current/at death,numeric
+ELSA,s7dadage,s7dadage:w7 S father age current/at death,numeric
+ELSA,s7iwstat,s7iwstat:w7 s interview status,haven_labelled;vctrs_vctr;double
+ELSA,s7momage,s7momage:w7 S mother age current/at death,numeric
+ELSA,s8dadage,s8dadage:w8 S father age current/at death,numeric
+ELSA,s8iwstat,s8iwstat:w8 s interview status,haven_labelled;vctrs_vctr;double
+ELSA,s8momage,s8momage:w8 S mother age current/at death,numeric
+ELSA,s9dadage,s9dadage:w9 S father age current/at death,numeric
+ELSA,s9iwstat,s9iwstat:w9 s interview status,haven_labelled;vctrs_vctr;double
+ELSA,s9momage,s9momage:w9 S mother age current/at death,numeric
+HRS,h10afmort,h10afmort:w10 asst flag: total mortgage--cross-wave,haven_labelled;vctrs_vctr;double
+HRS,h10amort,h10amort:w10 assets:total mortgage--cross-wave,numeric
+HRS,h11afmort,h11afmort:w11 asst flag: total mortgage--cross-wave,haven_labelled;vctrs_vctr;double
+HRS,h11amort,h11amort:w11 assets:total mortgage--cross-wave,numeric
+HRS,h12afmort,h12afmort:w12 asst flag: total mortgage--cross-wave,haven_labelled;vctrs_vctr;double
+HRS,h12amort,h12amort:w12 assets:total mortgage--cross-wave,numeric
+HRS,h13afmort,h13afmort:w13 asst flag: total mortgage--cross-wave,haven_labelled;vctrs_vctr;double
+HRS,h13amort,h13amort:w13 assets:total mortgage--cross-wave,numeric
+HRS,h14afmort,h14afmort:w14 asst flag: total mortgage--cross-wave,haven_labelled;vctrs_vctr;double
+HRS,h14amort,h14amort:w14 assets:total mortgage--cross-wave,numeric
+HRS,h15afmort,h15afmort:w15 asst flag: total mortgage--cross-wave,haven_labelled;vctrs_vctr;double
+HRS,h15amort,h15amort:w15 assets:total mortgage--cross-wave,numeric
+HRS,h16afmort,h16afmort:w16 asst flag: total mortgage--cross-wave,haven_labelled;vctrs_vctr;double
+HRS,h16amort,h16amort:w16 assets:total mortgage--cross-wave,numeric
+HRS,h1afmort,h1afmort:w1 asst flag: total mortgage--cross-wave,haven_labelled;vctrs_vctr;double
+HRS,h1amort,h1amort:w1 assets:total mortgage--cross-wave,numeric
+HRS,h2afmort,h2afmort:w2 asst flag: total mortgage--cross-wave,haven_labelled;vctrs_vctr;double
+HRS,h2amort,h2amort:w2 assets:total mortgage--cross-wave,numeric
+HRS,h3afmort,h3afmort:w3 asst flag: total mortgage--cross-wave,haven_labelled;vctrs_vctr;double
+HRS,h3amort,h3amort:w3 assets:total mortgage--cross-wave,numeric
+HRS,h4afmort,h4afmort:w4 asst flag: total mortgage--cross-wave,haven_labelled;vctrs_vctr;double
+HRS,h4amort,h4amort:w4 assets:total mortgage--cross-wave,numeric
+HRS,h5afmort,h5afmort:w5 asst flag: total mortgage--cross-wave,haven_labelled;vctrs_vctr;double
+HRS,h5amort,h5amort:w5 assets:total mortgage--cross-wave,numeric
+HRS,h6afmort,h6afmort:w6 asst flag: total mortgage--cross-wave,haven_labelled;vctrs_vctr;double
+HRS,h6amort,h6amort:w6 assets:total mortgage--cross-wave,numeric
+HRS,h7afmort,h7afmort:w7 asst flag: total mortgage--cross-wave,haven_labelled;vctrs_vctr;double
+HRS,h7amort,h7amort:w7 assets:total mortgage--cross-wave,numeric
+HRS,h8afmort,h8afmort:w8 asst flag: total mortgage--cross-wave,haven_labelled;vctrs_vctr;double
+HRS,h8amort,h8amort:w8 assets:total mortgage--cross-wave,numeric
+HRS,h9afmort,h9afmort:w9 asst flag: total mortgage--cross-wave,haven_labelled;vctrs_vctr;double
+HRS,h9amort,h9amort:w9 assets:total mortgage--cross-wave,numeric
+HRS,r10dadage,r10dadage:w10 father age current/at death,numeric
+HRS,r10deptho,r10deptho:w10 r thoughts about death,haven_labelled;vctrs_vctr;double
+HRS,r10iwstat,r10iwstat:w10 r interview status,haven_labelled;vctrs_vctr;double
+HRS,r10momage,r10momage:w10 mother age current/at death,numeric
+HRS,r10penic1,r10penic1:w10 pen #1 continue after death,haven_labelled;vctrs_vctr;double
+HRS,r10penic2,r10penic2:w10 pen #2 continue after death,haven_labelled;vctrs_vctr;double
+HRS,r10pexit,r10pexit:w10 exit or post-exit interview administered this wave,haven_labelled;vctrs_vctr;double
+HRS,r11dadage,r11dadage:w11 father age current/at death,numeric
+HRS,r11deptho,r11deptho:w11 r thoughts about death,haven_labelled;vctrs_vctr;double
+HRS,r11iwstat,r11iwstat:w11 r interview status,haven_labelled;vctrs_vctr;double
+HRS,r11momage,r11momage:w11 mother age current/at death,numeric
+HRS,r11penic1,r11penic1:w11 pen #1 continue after death,haven_labelled;vctrs_vctr;double
+HRS,r11penic2,r11penic2:w11 pen #2 continue after death,haven_labelled;vctrs_vctr;double
+HRS,r11pexit,r11pexit:w11 exit or post-exit interview administered this wave,haven_labelled;vctrs_vctr;double
+HRS,r12dadage,r12dadage:w12 father age current/at death,numeric
+HRS,r12deptho,r12deptho:w12 r thoughts about death,haven_labelled;vctrs_vctr;double
+HRS,r12iwstat,r12iwstat:w12 r interview status,haven_labelled;vctrs_vctr;double
+HRS,r12momage,r12momage:w12 mother age current/at death,numeric
+HRS,r12penic1,r12penic1:w12 pen #1 continue after death,haven_labelled;vctrs_vctr;double
+HRS,r12penic2,r12penic2:w12 pen #2 continue after death,haven_labelled;vctrs_vctr;double
+HRS,r12pexit,r12pexit:w12 exit or post-exit interview administered this wave,haven_labelled;vctrs_vctr;double
+HRS,r13dadage,r13dadage:w13 father age current/at death,numeric
+HRS,r13deptho,r13deptho:w13 r thoughts about death,haven_labelled;vctrs_vctr;double
+HRS,r13iwstat,r13iwstat:w13 r interview status,haven_labelled;vctrs_vctr;double
+HRS,r13momage,r13momage:w13 mother age current/at death,numeric
+HRS,r13penic1,r13penic1:w13 pen #1 continue after death,haven_labelled;vctrs_vctr;double
+HRS,r13penic2,r13penic2:w13 pen #2 continue after death,haven_labelled;vctrs_vctr;double
+HRS,r13pexit,r13pexit:w13 exit or post-exit interview administered this wave,haven_labelled;vctrs_vctr;double
+HRS,r14dadage,r14dadage:w14 father age current/at death,numeric
+HRS,r14deptho,r14deptho:w14 r thoughts about death,haven_labelled;vctrs_vctr;double
+HRS,r14iwstat,r14iwstat:w14 r interview status,haven_labelled;vctrs_vctr;double
+HRS,r14momage,r14momage:w14 mother age current/at death,numeric
+HRS,r14penic1,r14penic1:w14 pen #1 continue after death,haven_labelled;vctrs_vctr;double
+HRS,r14penic2,r14penic2:w14 pen #2 continue after death,haven_labelled;vctrs_vctr;double
+HRS,r14pexit,r14pexit:w14 exit or post-exit interview administered this wave,haven_labelled;vctrs_vctr;double
+HRS,r15dadage,r15dadage:w15 father age current/at death,numeric
+HRS,r15deptho,r15deptho:w15 r thoughts about death,haven_labelled;vctrs_vctr;double
+HRS,r15iwstat,r15iwstat:w15 r interview status,haven_labelled;vctrs_vctr;double
+HRS,r15momage,r15momage:w15 mother age current/at death,numeric
+HRS,r15penic1,r15penic1:w15 pen #1 continue after death,haven_labelled;vctrs_vctr;double
+HRS,r15penic2,r15penic2:w15 pen #2 continue after death,haven_labelled;vctrs_vctr;double
+HRS,r15pexit,r15pexit:w15 exit or post-exit interview administered this wave,haven_labelled;vctrs_vctr;double
+HRS,r16dadage,r16dadage:w16 father age current/at death,numeric
+HRS,r16deptho,r16deptho:w16 r thoughts about death,haven_labelled;vctrs_vctr;double
+HRS,r16iwstat,r16iwstat:w16 r interview status,haven_labelled;vctrs_vctr;double
+HRS,r16momage,r16momage:w16 mother age current/at death,numeric
+HRS,r16penic1,r16penic1:w16 pen #1 continue after death,haven_labelled;vctrs_vctr;double
+HRS,r16penic2,r16penic2:w16 pen #2 continue after death,haven_labelled;vctrs_vctr;double
+HRS,r16pexit,r16pexit:w16 exit or post-exit interview administered this wave,haven_labelled;vctrs_vctr;double
+HRS,r1dadage,r1dadage:w1 father age current/at death,numeric
+HRS,r1iwstat,r1iwstat:w1 r interview status,haven_labelled;vctrs_vctr;double
+HRS,r1momage,r1momage:w1 mother age current/at death,numeric
+HRS,r2dadage,r2dadage:w2 father age current/at death,numeric
+HRS,r2iwstat,r2iwstat:w2 r interview status,haven_labelled;vctrs_vctr;double
+HRS,r2momage,r2momage:w2 mother age current/at death,numeric
+HRS,r2penic1,r2penic1:w2 pen #1 continue after death,haven_labelled;vctrs_vctr;double
+HRS,r2penic2,r2penic2:w2 pen #2 continue after death,haven_labelled;vctrs_vctr;double
+HRS,r2pexit,r2pexit:w2 exit or post-exit interview administered this wave,haven_labelled;vctrs_vctr;double
+HRS,r3dadage,r3dadage:w3 father age current/at death,numeric
+HRS,r3deptho,r3deptho:w3 r thoughts about death,haven_labelled;vctrs_vctr;double
+HRS,r3iwstat,r3iwstat:w3 r interview status,haven_labelled;vctrs_vctr;double
+HRS,r3momage,r3momage:w3 mother age current/at death,numeric
+HRS,r3penic1,r3penic1:w3 pen #1 continue after death,haven_labelled;vctrs_vctr;double
+HRS,r3penic2,r3penic2:w3 pen #2 continue after death,haven_labelled;vctrs_vctr;double
+HRS,r3pexit,r3pexit:w3 exit or post-exit interview administered this wave,haven_labelled;vctrs_vctr;double
+HRS,r4dadage,r4dadage:w4 father age current/at death,numeric
+HRS,r4deptho,r4deptho:w4 r thoughts about death,haven_labelled;vctrs_vctr;double
+HRS,r4iwstat,r4iwstat:w4 r interview status,haven_labelled;vctrs_vctr;double
+HRS,r4momage,r4momage:w4 mother age current/at death,numeric
+HRS,r4penic1,r4penic1:w4 pen #1 continue after death,haven_labelled;vctrs_vctr;double
+HRS,r4penic2,r4penic2:w4 pen #2 continue after death,haven_labelled;vctrs_vctr;double
+HRS,r4pexit,r4pexit:w4 exit or post-exit interview administered this wave,haven_labelled;vctrs_vctr;double
+HRS,r5dadage,r5dadage:w5 father age current/at death,numeric
+HRS,r5deptho,r5deptho:w5 r thoughts about death,haven_labelled;vctrs_vctr;double
+HRS,r5iwstat,r5iwstat:w5 r interview status,haven_labelled;vctrs_vctr;double
+HRS,r5momage,r5momage:w5 mother age current/at death,numeric
+HRS,r5penic1,r5penic1:w5 pen #1 continue after death,haven_labelled;vctrs_vctr;double
+HRS,r5penic2,r5penic2:w5 pen #2 continue after death,haven_labelled;vctrs_vctr;double
+HRS,r5pexit,r5pexit:w5 exit or post-exit interview administered this wave,haven_labelled;vctrs_vctr;double
+HRS,r6dadage,r6dadage:w6 father age current/at death,numeric
+HRS,r6deptho,r6deptho:w6 r thoughts about death,haven_labelled;vctrs_vctr;double
+HRS,r6iwstat,r6iwstat:w6 r interview status,haven_labelled;vctrs_vctr;double
+HRS,r6momage,r6momage:w6 mother age current/at death,numeric
+HRS,r6penic1,r6penic1:w6 pen #1 continue after death,haven_labelled;vctrs_vctr;double
+HRS,r6penic2,r6penic2:w6 pen #2 continue after death,haven_labelled;vctrs_vctr;double
+HRS,r6pexit,r6pexit:w6 exit or post-exit interview administered this wave,haven_labelled;vctrs_vctr;double
+HRS,r7dadage,r7dadage:w7 father age current/at death,numeric
+HRS,r7deptho,r7deptho:w7 r thoughts about death,haven_labelled;vctrs_vctr;double
+HRS,r7iwstat,r7iwstat:w7 r interview status,haven_labelled;vctrs_vctr;double
+HRS,r7momage,r7momage:w7 mother age current/at death,numeric
+HRS,r7penic1,r7penic1:w7 pen #1 continue after death,haven_labelled;vctrs_vctr;double
+HRS,r7penic2,r7penic2:w7 pen #2 continue after death,haven_labelled;vctrs_vctr;double
+HRS,r7pexit,r7pexit:w7 exit or post-exit interview administered this wave,haven_labelled;vctrs_vctr;double
+HRS,r8dadage,r8dadage:w8 father age current/at death,numeric
+HRS,r8deptho,r8deptho:w8 r thoughts about death,haven_labelled;vctrs_vctr;double
+HRS,r8iwstat,r8iwstat:w8 r interview status,haven_labelled;vctrs_vctr;double
+HRS,r8momage,r8momage:w8 mother age current/at death,numeric
+HRS,r8penic1,r8penic1:w8 pen #1 continue after death,haven_labelled;vctrs_vctr;double
+HRS,r8penic2,r8penic2:w8 pen #2 continue after death,haven_labelled;vctrs_vctr;double
+HRS,r8pexit,r8pexit:w8 exit or post-exit interview administered this wave,haven_labelled;vctrs_vctr;double
+HRS,r9dadage,r9dadage:w9 father age current/at death,numeric
+HRS,r9deptho,r9deptho:w9 r thoughts about death,haven_labelled;vctrs_vctr;double
+HRS,r9iwstat,r9iwstat:w9 r interview status,haven_labelled;vctrs_vctr;double
+HRS,r9momage,r9momage:w9 mother age current/at death,numeric
+HRS,r9penic1,r9penic1:w9 pen #1 continue after death,haven_labelled;vctrs_vctr;double
+HRS,r9penic2,r9penic2:w9 pen #2 continue after death,haven_labelled;vctrs_vctr;double
+HRS,r9pexit,r9pexit:w9 exit or post-exit interview administered this wave,haven_labelled;vctrs_vctr;double
+HRS,radage_m,radage_m: age at death in months,numeric
+HRS,radage_y,radage_y: age at death in years,numeric
+HRS,raddate,raddate: r death date,numeric
+HRS,radmonth,radmonth: r death month,numeric
+HRS,radsrc,radsrc: r death date source,haven_labelled;vctrs_vctr;double
+HRS,radtimtdth,radtimtdth: number of months from last core interview to death date,numeric
+HRS,radyear,radyear: r death year,numeric
+HRS,readl5h,readl5h: exit r gets help-sum of adls /0-5,numeric
+HRS,readl6h,readl6h: exit r gets help-sum of adls /0-6,numeric
+HRS,realone,realone:exit r could be left alone,haven_labelled;vctrs_vctr;double
+HRS,rebathh,"rebathh:exit r got help-bathing, showering",haven_labelled;vctrs_vctr;double
+HRS,rebatht,"rebatht:exit time r got help-bathing, showering",numeric
+HRS,rebedh,rebedh:exit r got help-get in/out bed,haven_labelled;vctrs_vctr;double
+HRS,rebedrid,rebedrid:exit bedridden around time of death,haven_labelled;vctrs_vctr;double
+HRS,rebedt,rebedt:exit time r got help-get in/out bed,numeric
+HRS,recendiv,"recendiv:exit census division, place of death",haven_labelled;vctrs_vctr;double
+HRS,recenreg,"recenreg:exit census region, place of death",haven_labelled;vctrs_vctr;double
+HRS,recovr,recovr:exit r covered by r empl plan,haven_labelled;vctrs_vctr;double
+HRS,recovs,recovs:exit r covered by s empl plan,haven_labelled;vctrs_vctr;double
+HRS,redoctim,redoctim:exit # doctor visits,numeric
+HRS,redoctor,redoctor:exit doctor visit,haven_labelled;vctrs_vctr;double
+HRS,redressh,redressh:exit r got help-dressing,haven_labelled;vctrs_vctr;double
+HRS,redresst,redresst:exit time r got help-dressing,numeric
+HRS,redrugs,redrugs:exit regularly take rx,haven_labelled;vctrs_vctr;double
+HRS,reeath,reeath:exit r got help-eating,haven_labelled;vctrs_vctr;double
+HRS,reeatt,reeatt:exit time r got help-eating,numeric
+HRS,regovmdd,regovmdd:exit r had medicaid at death,haven_labelled;vctrs_vctr;double
+HRS,regovmds,regovmds:exit r had medicaid in last 2 yrs or since prvivw,haven_labelled;vctrs_vctr;double
+HRS,regovmr,regovmr:exit r had gov plan-medicare,haven_labelled;vctrs_vctr;double
+HRS,regovva,regovva:exit r had gov plan-champus/champva,haven_labelled;vctrs_vctr;double
+HRS,rehaluc,rehaluc:exit r hallucinated,haven_labelled;vctrs_vctr;double
+HRS,rehesrc1,rehesrc1:exit source of r empl plan #1,haven_labelled;vctrs_vctr;double
+HRS,rehesrc2,rehesrc2:exit source of r empl plan #2,haven_labelled;vctrs_vctr;double
+HRS,rehesrc3,rehesrc3:exit source of r empl plan #3,haven_labelled;vctrs_vctr;double
+HRS,rehigov,rehigov:exit r was covered by gov plan,haven_labelled;vctrs_vctr;double
+HRS,rehiltc,rehiltc:exit r had long term care ins,haven_labelled;vctrs_vctr;double
+HRS,rehomcar,rehomcar:exit home hlth care,haven_labelled;vctrs_vctr;double
+HRS,rehosp,rehosp:exit overnight hospital stay since prvivw before death,haven_labelled;vctrs_vctr;double
+HRS,rehpcnit,rehpcnit:exit hospice care nights,numeric
+HRS,rehpcsty,rehpcsty:exit hospice care stay,haven_labelled;vctrs_vctr;double
+HRS,rehpctim,rehpctim:exit hospice care time,numeric
+HRS,rehspnit,rehspnit:exit # hospital nights since prvivw before death,numeric
+HRS,rehsptim,rehsptim:exit # hospital stays since prvivw before death,numeric
+HRS,reiadl5h,reiadl5h: exit r gets help-sum of iadls /0-5,numeric
+HRS,reiwbeg,reiwbeg:exit interview begin date,numeric
+HRS,reiwend,reiwend:exit interview end date,numeric
+HRS,reiwmid,reiwmid:exit interview midpt date,numeric
+HRS,reiwmidf,reiwmidf:exit interview midpt date flag,haven_labelled;vctrs_vctr;double
+HRS,relost,relost:exit r lost in familiar environments,haven_labelled;vctrs_vctr;double
+HRS,reltcprm,reltcprm:exit long term care insurance plan monthly premium,numeric
+HRS,remealsh,remealsh:exit r got help-preparing hot meals,haven_labelled;vctrs_vctr;double
+HRS,remealst,remealst:exit time r got help-preparing hot meals,numeric
+HRS,remedsh,remedsh:exit r got help-take medications,haven_labelled;vctrs_vctr;double
+HRS,remedst,remedst:exit time r got help-take medications,numeric
+HRS,remoneyh,remoneyh:exit r got help-managing money,haven_labelled;vctrs_vctr;double
+HRS,rempart,rempart:exit r partnered,haven_labelled;vctrs_vctr;double
+HRS,remrprem,remrprem:exit medicare/medicaid hmo monthly premium,numeric
+HRS,remstat,remstat:exit r marital status,haven_labelled;vctrs_vctr;double
+HRS,remstath,"remstath:exit r marstat-w/o part,filled",haven_labelled;vctrs_vctr;double
+HRS,renhmday,renhmday:exit days in nh from move/prvivw before death,numeric
+HRS,renhmliv,renhmliv:exit lived in nh at time of death,haven_labelled;vctrs_vctr;double
+HRS,renhmmvm,renhmmvm:exit month moved to nh,numeric
+HRS,renhmmvy,renhmmvy:exit year moved to nh,numeric
+HRS,renrshom,renrshom:exit nh stay,haven_labelled;vctrs_vctr;double
+HRS,renrsnit,renrsnit:exit # nights in nh,numeric
+HRS,renrstim,renrstim:exit # nh stays,numeric
+HRS,reoopmd,reoopmd:exit mexp amt: out of pkt med exp,numeric
+HRS,reoopmdf,reoopmdf:exit mexp flag: out of pkt med exp,haven_labelled;vctrs_vctr;double
+HRS,reoopmdo,reoopmdo:exit mexp amt: out of pkt med exp w oth,numeric
+HRS,reoopmdof,reoopmdof:exit mexp flag: out of pkt med exp w oth,haven_labelled;vctrs_vctr;double
+HRS,repexitwv1,repexitwv1:exit wave first post-exit interview was administered,haven_labelled;vctrs_vctr;double
+HRS,repexitwv2,repexitwv2:exit wave second post-exit interview was administered,haven_labelled;vctrs_vctr;double
+HRS,repexitwv3,repexitwv3:exit wave third post-exit interview was administered,haven_labelled;vctrs_vctr;double
+HRS,rephoneh,rephoneh:exit r got help-use telephone,haven_labelled;vctrs_vctr;double
+HRS,rephonet,rephonet:exit time r got help-use telephone,numeric
+HRS,repldeath,repldeath:exit place of death,haven_labelled;vctrs_vctr;double
+HRS,reprmem,reprmem:exit rate r memory 1 month prior to death,haven_labelled;vctrs_vctr;double
+HRS,reproxyrel,reproxyrel:exit proxy relationship to r,haven_labelled;vctrs_vctr;double
+HRS,reproxysp,reproxysp:exit proxy is spouse,haven_labelled;vctrs_vctr;double
+HRS,reprpcnt,reprpcnt:exit number of private insurance plans,numeric
+HRS,reprprm1,reprprm1:exit private insurance plan 1 monthly premium,numeric
+HRS,reprprm2,reprprm2:exit private insurance plan 2 monthly premium,numeric
+HRS,reprprm3,reprprm3:exit private insurance plan 3 monthly premium,numeric
+HRS,reprsrc1,reprsrc1:exit private insurance plan 1 source,haven_labelled;vctrs_vctr;double
+HRS,reprsrc2,reprsrc2:exit private insurance plan 2 source,haven_labelled;vctrs_vctr;double
+HRS,reprsrc3,reprsrc3:exit private insurance plan 3 source,haven_labelled;vctrs_vctr;double
+HRS,reshhidpn,reshhidpn:exit spouse identifier,numeric
+HRS,reshoph,reshoph:exit r got help-shop for grocery,haven_labelled;vctrs_vctr;double
+HRS,reshopt,reshopt:exit time r got help-shop for grocery,numeric
+HRS,respagem_b,respagem_b:exit s age (months) at exit ivw begmon,numeric
+HRS,respagem_e,respagem_e:exit s age (months) at exit ivw endmon,numeric
+HRS,respagem_m,respagem_m:exit s age (months) at exit ivw midmon,numeric
+HRS,respagey_b,respagey_b:exit s age (years) at exit ivw begmon,numeric
+HRS,respagey_e,respagey_e:exit s age (years) at exit ivw endmon,numeric
+HRS,respagey_m,respagey_m:exit s age (years) at exit ivw midmon,numeric
+HRS,respcfac,respcfac:exit spec health facilty,haven_labelled;vctrs_vctr;double
+HRS,resuper,resuper:exit r supervised for safety,haven_labelled;vctrs_vctr;double
+HRS,ret2death,ret2death:exit time from start of final illness to death,haven_labelled;vctrs_vctr;double
+HRS,retoilth,retoilth:exit r got help-using the toilet,haven_labelled;vctrs_vctr;double
+HRS,retoiltt,retoiltt:exit time r got help-using the toilet,numeric
+HRS,retyltc,retyltc:exit r type of long term care ins,haven_labelled;vctrs_vctr;double
+HRS,rewalkrh,rewalkrh:exit r got help-walk across room,haven_labelled;vctrs_vctr;double
+HRS,rewalkrt,rewalkrt:exit time r got help-walk across room,numeric
+HRS,rewander,rewander:exit r ever wander off,haven_labelled;vctrs_vctr;double
+HRS,rexitwv,rexitwv:exit wave exit interview was administered,haven_labelled;vctrs_vctr;double
+HRS,rexityr,rexityr:exit interview year,numeric
+HRS,rexpdeath,rexpdeath:exit death expected?,haven_labelled;vctrs_vctr;double
+HRS,s10dadage,s10dadage:w10 father age current/at death,numeric
+HRS,s10dage_m,s10dage_m: age at death in months,numeric
+HRS,s10dage_y,s10dage_y: age at death in years,numeric
+HRS,s10ddate,s10ddate: s death date,numeric
+HRS,s10deptho,s10deptho:w10 s thoughts about death,haven_labelled;vctrs_vctr;double
+HRS,s10dmonth,s10dmonth: s death month,numeric
+HRS,s10dsrc,s10dsrc: s death date source,haven_labelled;vctrs_vctr;double
+HRS,s10dtimtdth,s10dtimtdth: number of months from last core interview to death date,numeric
+HRS,s10dyear,s10dyear: s death year,numeric
+HRS,s10iwstat,s10iwstat:w10 s interview status,haven_labelled;vctrs_vctr;double
+HRS,s10momage,s10momage:w10 mother age current/at death,numeric
+HRS,s10penic1,s10penic1:w10 pen #1 continue after death,haven_labelled;vctrs_vctr;double
+HRS,s10penic2,s10penic2:w10 pen #2 continue after death,haven_labelled;vctrs_vctr;double
+HRS,s11dadage,s11dadage:w11 father age current/at death,numeric
+HRS,s11dage_m,s11dage_m: age at death in months,numeric
+HRS,s11dage_y,s11dage_y: age at death in years,numeric
+HRS,s11ddate,s11ddate: s death date,numeric
+HRS,s11deptho,s11deptho:w11 s thoughts about death,haven_labelled;vctrs_vctr;double
+HRS,s11dmonth,s11dmonth: s death month,numeric
+HRS,s11dsrc,s11dsrc: s death date source,haven_labelled;vctrs_vctr;double
+HRS,s11dtimtdth,s11dtimtdth: number of months from last core interview to death date,numeric
+HRS,s11dyear,s11dyear: s death year,numeric
+HRS,s11iwstat,s11iwstat:w11 s interview status,haven_labelled;vctrs_vctr;double
+HRS,s11momage,s11momage:w11 mother age current/at death,numeric
+HRS,s11penic1,s11penic1:w11 pen #1 continue after death,haven_labelled;vctrs_vctr;double
+HRS,s11penic2,s11penic2:w11 pen #2 continue after death,haven_labelled;vctrs_vctr;double
+HRS,s12dadage,s12dadage:w12 father age current/at death,numeric
+HRS,s12dage_m,s12dage_m: age at death in months,numeric
+HRS,s12dage_y,s12dage_y: age at death in years,numeric
+HRS,s12ddate,s12ddate: s death date,numeric
+HRS,s12deptho,s12deptho:w12 s thoughts about death,haven_labelled;vctrs_vctr;double
+HRS,s12dmonth,s12dmonth: s death month,numeric
+HRS,s12dsrc,s12dsrc: s death date source,haven_labelled;vctrs_vctr;double
+HRS,s12dtimtdth,s12dtimtdth: number of months from last core interview to death date,numeric
+HRS,s12dyear,s12dyear: s death year,numeric
+HRS,s12iwstat,s12iwstat:w12 s interview status,haven_labelled;vctrs_vctr;double
+HRS,s12momage,s12momage:w12 mother age current/at death,numeric
+HRS,s12penic1,s12penic1:w12 pen #1 continue after death,haven_labelled;vctrs_vctr;double
+HRS,s12penic2,s12penic2:w12 pen #2 continue after death,haven_labelled;vctrs_vctr;double
+HRS,s13dadage,s13dadage:w13 father age current/at death,numeric
+HRS,s13dage_m,s13dage_m: age at death in months,numeric
+HRS,s13dage_y,s13dage_y: age at death in years,numeric
+HRS,s13ddate,s13ddate: s death date,numeric
+HRS,s13deptho,s13deptho:w13 s thoughts about death,haven_labelled;vctrs_vctr;double
+HRS,s13dmonth,s13dmonth: s death month,numeric
+HRS,s13dsrc,s13dsrc: s death date source,haven_labelled;vctrs_vctr;double
+HRS,s13dtimtdth,s13dtimtdth: number of months from last core interview to death date,numeric
+HRS,s13dyear,s13dyear: s death year,numeric
+HRS,s13iwstat,s13iwstat:w13 s interview status,haven_labelled;vctrs_vctr;double
+HRS,s13momage,s13momage:w13 mother age current/at death,numeric
+HRS,s13penic1,s13penic1:w13 pen #1 continue after death,haven_labelled;vctrs_vctr;double
+HRS,s13penic2,s13penic2:w13 pen #2 continue after death,haven_labelled;vctrs_vctr;double
+HRS,s14dadage,s14dadage:w14 father age current/at death,numeric
+HRS,s14dage_m,s14dage_m: age at death in months,numeric
+HRS,s14dage_y,s14dage_y: age at death in years,numeric
+HRS,s14ddate,s14ddate: s death date,numeric
+HRS,s14deptho,s14deptho:w14 s thoughts about death,haven_labelled;vctrs_vctr;double
+HRS,s14dmonth,s14dmonth: s death month,numeric
+HRS,s14dsrc,s14dsrc: s death date source,haven_labelled;vctrs_vctr;double
+HRS,s14dtimtdth,s14dtimtdth: number of months from last core interview to death date,numeric
+HRS,s14dyear,s14dyear: s death year,numeric
+HRS,s14iwstat,s14iwstat:w14 s interview status,haven_labelled;vctrs_vctr;double
+HRS,s14momage,s14momage:w14 mother age current/at death,numeric
+HRS,s14penic1,s14penic1:w14 pen #1 continue after death,haven_labelled;vctrs_vctr;double
+HRS,s14penic2,s14penic2:w14 pen #2 continue after death,haven_labelled;vctrs_vctr;double
+HRS,s15dadage,s15dadage:w15 father age current/at death,numeric
+HRS,s15dage_m,s15dage_m: age at death in months,numeric
+HRS,s15dage_y,s15dage_y: age at death in years,numeric
+HRS,s15ddate,s15ddate: s death date,numeric
+HRS,s15deptho,s15deptho:w15 s thoughts about death,haven_labelled;vctrs_vctr;double
+HRS,s15dmonth,s15dmonth: s death month,numeric
+HRS,s15dsrc,s15dsrc: s death date source,haven_labelled;vctrs_vctr;double
+HRS,s15dtimtdth,s15dtimtdth: number of months from last core interview to death date,numeric
+HRS,s15dyear,s15dyear: s death year,numeric
+HRS,s15iwstat,s15iwstat:w15 s interview status,haven_labelled;vctrs_vctr;double
+HRS,s15momage,s15momage:w15 mother age current/at death,numeric
+HRS,s15penic1,s15penic1:w15 pen #1 continue after death,haven_labelled;vctrs_vctr;double
+HRS,s15penic2,s15penic2:w15 pen #2 continue after death,haven_labelled;vctrs_vctr;double
+HRS,s16dadage,s16dadage:w16 father age current/at death,numeric
+HRS,s16dage_m,s16dage_m: age at death in months,numeric
+HRS,s16dage_y,s16dage_y: age at death in years,numeric
+HRS,s16ddate,s16ddate: s death date,numeric
+HRS,s16deptho,s16deptho:w16 s thoughts about death,haven_labelled;vctrs_vctr;double
+HRS,s16dmonth,s16dmonth: s death month,numeric
+HRS,s16dsrc,s16dsrc: s death date source,haven_labelled;vctrs_vctr;double
+HRS,s16dtimtdth,s16dtimtdth: number of months from last core interview to death date,numeric
+HRS,s16dyear,s16dyear: s death year,numeric
+HRS,s16iwstat,s16iwstat:w16 s interview status,haven_labelled;vctrs_vctr;double
+HRS,s16momage,s16momage:w16 mother age current/at death,numeric
+HRS,s16penic1,s16penic1:w16 pen #1 continue after death,haven_labelled;vctrs_vctr;double
+HRS,s16penic2,s16penic2:w16 pen #2 continue after death,haven_labelled;vctrs_vctr;double
+HRS,s1dadage,s1dadage:w1 father age current/at death,numeric
+HRS,s1dage_m,s1dage_m: age at death in months,numeric
+HRS,s1dage_y,s1dage_y: age at death in years,numeric
+HRS,s1ddate,s1ddate: s death date,numeric
+HRS,s1dmonth,s1dmonth: s death month,numeric
+HRS,s1dsrc,s1dsrc: s death date source,haven_labelled;vctrs_vctr;double
+HRS,s1dtimtdth,s1dtimtdth: number of months from last core interview to death date,numeric
+HRS,s1dyear,s1dyear: s death year,numeric
+HRS,s1iwstat,s1iwstat:w1 s interview status,haven_labelled;vctrs_vctr;double
+HRS,s1momage,s1momage:w1 mother age current/at death,numeric
+HRS,s2dadage,s2dadage:w2 father age current/at death,numeric
+HRS,s2dage_m,s2dage_m: age at death in months,numeric
+HRS,s2dage_y,s2dage_y: age at death in years,numeric
+HRS,s2ddate,s2ddate: s death date,numeric
+HRS,s2dmonth,s2dmonth: s death month,numeric
+HRS,s2dsrc,s2dsrc: s death date source,haven_labelled;vctrs_vctr;double
+HRS,s2dtimtdth,s2dtimtdth: number of months from last core interview to death date,numeric
+HRS,s2dyear,s2dyear: s death year,numeric
+HRS,s2iwstat,s2iwstat:w2 s interview status,haven_labelled;vctrs_vctr;double
+HRS,s2momage,s2momage:w2 mother age current/at death,numeric
+HRS,s2penic1,s2penic1:w2 pen #1 continue after death,haven_labelled;vctrs_vctr;double
+HRS,s2penic2,s2penic2:w2 pen #2 continue after death,haven_labelled;vctrs_vctr;double
+HRS,s3dadage,s3dadage:w3 father age current/at death,numeric
+HRS,s3dage_m,s3dage_m: age at death in months,numeric
+HRS,s3dage_y,s3dage_y: age at death in years,numeric
+HRS,s3ddate,s3ddate: s death date,numeric
+HRS,s3deptho,s3deptho:w3 s thoughts about death,haven_labelled;vctrs_vctr;double
+HRS,s3dmonth,s3dmonth: s death month,numeric
+HRS,s3dsrc,s3dsrc: s death date source,haven_labelled;vctrs_vctr;double
+HRS,s3dtimtdth,s3dtimtdth: number of months from last core interview to death date,numeric
+HRS,s3dyear,s3dyear: s death year,numeric
+HRS,s3iwstat,s3iwstat:w3 s interview status,haven_labelled;vctrs_vctr;double
+HRS,s3momage,s3momage:w3 mother age current/at death,numeric
+HRS,s3penic1,s3penic1:w3 pen #1 continue after death,haven_labelled;vctrs_vctr;double
+HRS,s3penic2,s3penic2:w3 pen #2 continue after death,haven_labelled;vctrs_vctr;double
+HRS,s4dadage,s4dadage:w4 father age current/at death,numeric
+HRS,s4dage_m,s4dage_m: age at death in months,numeric
+HRS,s4dage_y,s4dage_y: age at death in years,numeric
+HRS,s4ddate,s4ddate: s death date,numeric
+HRS,s4deptho,s4deptho:w4 s thoughts about death,haven_labelled;vctrs_vctr;double
+HRS,s4dmonth,s4dmonth: s death month,numeric
+HRS,s4dsrc,s4dsrc: s death date source,haven_labelled;vctrs_vctr;double
+HRS,s4dtimtdth,s4dtimtdth: number of months from last core interview to death date,numeric
+HRS,s4dyear,s4dyear: s death year,numeric
+HRS,s4iwstat,s4iwstat:w4 s interview status,haven_labelled;vctrs_vctr;double
+HRS,s4momage,s4momage:w4 mother age current/at death,numeric
+HRS,s4penic1,s4penic1:w4 pen #1 continue after death,haven_labelled;vctrs_vctr;double
+HRS,s4penic2,s4penic2:w4 pen #2 continue after death,haven_labelled;vctrs_vctr;double
+HRS,s5dadage,s5dadage:w5 father age current/at death,numeric
+HRS,s5dage_m,s5dage_m: age at death in months,numeric
+HRS,s5dage_y,s5dage_y: age at death in years,numeric
+HRS,s5ddate,s5ddate: s death date,numeric
+HRS,s5deptho,s5deptho:w5 s thoughts about death,haven_labelled;vctrs_vctr;double
+HRS,s5dmonth,s5dmonth: s death month,numeric
+HRS,s5dsrc,s5dsrc: s death date source,haven_labelled;vctrs_vctr;double
+HRS,s5dtimtdth,s5dtimtdth: number of months from last core interview to death date,numeric
+HRS,s5dyear,s5dyear: s death year,numeric
+HRS,s5iwstat,s5iwstat:w5 s interview status,haven_labelled;vctrs_vctr;double
+HRS,s5momage,s5momage:w5 mother age current/at death,numeric
+HRS,s5penic1,s5penic1:w5 pen #1 continue after death,haven_labelled;vctrs_vctr;double
+HRS,s5penic2,s5penic2:w5 pen #2 continue after death,haven_labelled;vctrs_vctr;double
+HRS,s6dadage,s6dadage:w6 father age current/at death,numeric
+HRS,s6dage_m,s6dage_m: age at death in months,numeric
+HRS,s6dage_y,s6dage_y: age at death in years,numeric
+HRS,s6ddate,s6ddate: s death date,numeric
+HRS,s6deptho,s6deptho:w6 s thoughts about death,haven_labelled;vctrs_vctr;double
+HRS,s6dmonth,s6dmonth: s death month,numeric
+HRS,s6dsrc,s6dsrc: s death date source,haven_labelled;vctrs_vctr;double
+HRS,s6dtimtdth,s6dtimtdth: number of months from last core interview to death date,numeric
+HRS,s6dyear,s6dyear: s death year,numeric
+HRS,s6iwstat,s6iwstat:w6 s interview status,haven_labelled;vctrs_vctr;double
+HRS,s6momage,s6momage:w6 mother age current/at death,numeric
+HRS,s6penic1,s6penic1:w6 pen #1 continue after death,haven_labelled;vctrs_vctr;double
+HRS,s6penic2,s6penic2:w6 pen #2 continue after death,haven_labelled;vctrs_vctr;double
+HRS,s7dadage,s7dadage:w7 father age current/at death,numeric
+HRS,s7dage_m,s7dage_m: age at death in months,numeric
+HRS,s7dage_y,s7dage_y: age at death in years,numeric
+HRS,s7ddate,s7ddate: s death date,numeric
+HRS,s7deptho,s7deptho:w7 s thoughts about death,haven_labelled;vctrs_vctr;double
+HRS,s7dmonth,s7dmonth: s death month,numeric
+HRS,s7dsrc,s7dsrc: s death date source,haven_labelled;vctrs_vctr;double
+HRS,s7dtimtdth,s7dtimtdth: number of months from last core interview to death date,numeric
+HRS,s7dyear,s7dyear: s death year,numeric
+HRS,s7iwstat,s7iwstat:w7 s interview status,haven_labelled;vctrs_vctr;double
+HRS,s7momage,s7momage:w7 mother age current/at death,numeric
+HRS,s7penic1,s7penic1:w7 pen #1 continue after death,haven_labelled;vctrs_vctr;double
+HRS,s7penic2,s7penic2:w7 pen #2 continue after death,haven_labelled;vctrs_vctr;double
+HRS,s8dadage,s8dadage:w8 father age current/at death,numeric
+HRS,s8dage_m,s8dage_m: age at death in months,numeric
+HRS,s8dage_y,s8dage_y: age at death in years,numeric
+HRS,s8ddate,s8ddate: s death date,numeric
+HRS,s8deptho,s8deptho:w8 s thoughts about death,haven_labelled;vctrs_vctr;double
+HRS,s8dmonth,s8dmonth: s death month,numeric
+HRS,s8dsrc,s8dsrc: s death date source,haven_labelled;vctrs_vctr;double
+HRS,s8dtimtdth,s8dtimtdth: number of months from last core interview to death date,numeric
+HRS,s8dyear,s8dyear: s death year,numeric
+HRS,s8iwstat,s8iwstat:w8 s interview status,haven_labelled;vctrs_vctr;double
+HRS,s8momage,s8momage:w8 mother age current/at death,numeric
+HRS,s8penic1,s8penic1:w8 pen #1 continue after death,haven_labelled;vctrs_vctr;double
+HRS,s8penic2,s8penic2:w8 pen #2 continue after death,haven_labelled;vctrs_vctr;double
+HRS,s9dadage,s9dadage:w9 father age current/at death,numeric
+HRS,s9dage_m,s9dage_m: age at death in months,numeric
+HRS,s9dage_y,s9dage_y: age at death in years,numeric
+HRS,s9ddate,s9ddate: s death date,numeric
+HRS,s9deptho,s9deptho:w9 s thoughts about death,haven_labelled;vctrs_vctr;double
+HRS,s9dmonth,s9dmonth: s death month,numeric
+HRS,s9dsrc,s9dsrc: s death date source,haven_labelled;vctrs_vctr;double
+HRS,s9dtimtdth,s9dtimtdth: number of months from last core interview to death date,numeric
+HRS,s9dyear,s9dyear: s death year,numeric
+HRS,s9iwstat,s9iwstat:w9 s interview status,haven_labelled;vctrs_vctr;double
+HRS,s9momage,s9momage:w9 mother age current/at death,numeric
+HRS,s9penic1,s9penic1:w9 pen #1 continue after death,haven_labelled;vctrs_vctr;double
+HRS,s9penic2,s9penic2:w9 pen #2 continue after death,haven_labelled;vctrs_vctr;double
+MHAS,h1afmort,h1afmort:w1 AsstFlag: value of mortgage/prim res,haven_labelled;vctrs_vctr;double
+MHAS,h1amort,h1amort:w1 value of mortgage/prim res,numeric
+MHAS,h1chdeathe,h1chdeathe: w1 R+S Ever experienced death of own child,haven_labelled;vctrs_vctr;double
+MHAS,h1dchild,h1dchild: w1 Number of deceased children R/P,numeric
+MHAS,h2afmort,h2afmort:w2 AsstFlag: value of mortgage/prim res,haven_labelled;vctrs_vctr;double
+MHAS,h2amort,h2amort:w2 value of mortgage/prim res,numeric
+MHAS,h2chdeathe,h2chdeathe: w2 R+S Ever experienced death of own child,haven_labelled;vctrs_vctr;double
+MHAS,h2dchild,h2dchild: w2 Number of deceased children R/P,numeric
+MHAS,h3afmort,h3afmort:w3 AsstFlag: value of mortgage/prim res,haven_labelled;vctrs_vctr;double
+MHAS,h3amort,h3amort:w3 value of mortgage/prim res,numeric
+MHAS,h3chdeathe,h3chdeathe: w3 R+S Ever experienced death of own child,haven_labelled;vctrs_vctr;double
+MHAS,h3dchild,h3dchild: w3 Number of deceased children R/P,numeric
+MHAS,h4afmort,h4afmort:w4 AsstFlag: value of mortgage/prim res,haven_labelled;vctrs_vctr;double
+MHAS,h4amort,h4amort:w4 value of mortgage/prim res,numeric
+MHAS,h4chdeathe,h4chdeathe: w4 R+S Ever experienced death of own child,haven_labelled;vctrs_vctr;double
+MHAS,h4dchild,h4dchild: w4 Number of deceased children R/P,numeric
+MHAS,h5afmort,h5afmort:w5 AsstFlag: value of mortgage/prim res,haven_labelled;vctrs_vctr;double
+MHAS,h5amort,h5amort:w5 value of mortgage/prim res,numeric
+MHAS,h5chdeathe,h5chdeathe: w5 R+S Ever experienced death of own child,haven_labelled;vctrs_vctr;double
+MHAS,h5dchild,h5dchild: w5 Number of deceased children R/P,numeric
+MHAS,h6afmort,h6afmort:w6 AsstFlag: value of mortgage/prim res,haven_labelled;vctrs_vctr;double
+MHAS,h6amort,h6amort:w6 value of mortgage/prim res,numeric
+MHAS,h6chdeathe,h6chdeathe: w6 R+S Ever experienced death of own child,haven_labelled;vctrs_vctr;double
+MHAS,h6dchild,h6dchild: w6 Number of deceased children R/P,numeric
+MHAS,r1dadage,r1dadage: w1 R Father's age - current/at death,numeric
+MHAS,r1decsib,r1decsib: w1 R Number of deceased siblings,numeric
+MHAS,r1iwstat,r1iwstat: w1 R Interview Status,haven_labelled;vctrs_vctr;double
+MHAS,r1momage,r1momage: w1 R Mother's age - current/at death,numeric
+MHAS,r2dadage,r2dadage: w2 R Father's age - current/at death,numeric
+MHAS,r2decsib,r2decsib: w2 R Number of deceased siblings,numeric
+MHAS,r2iwstat,r2iwstat: w2 R Interview Status,haven_labelled;vctrs_vctr;double
+MHAS,r2momage,r2momage: w2 R Mother's age - current/at death,numeric
+MHAS,r3dadage,r3dadage: w3 R Father's age - current/at death,numeric
+MHAS,r3decsib,r3decsib: w3 R Number of deceased siblings,numeric
+MHAS,r3iwstat,r3iwstat: w3 R Interview Status,haven_labelled;vctrs_vctr;double
+MHAS,r3momage,r3momage: w3 R Mother's age - current/at death,numeric
+MHAS,r4dadage,r4dadage: w4 R Father's age - current/at death,numeric
+MHAS,r4decsib,r4decsib: w4 R Number of deceased siblings,numeric
+MHAS,r4iwstat,r4iwstat: w4 R Interview Status,haven_labelled;vctrs_vctr;double
+MHAS,r4momage,r4momage: w4 R Mother's age - current/at death,numeric
+MHAS,r5dadage,r5dadage: w5 R Father's age - current/at death,numeric
+MHAS,r5decsib,r5decsib: w5 R Number of deceased siblings,numeric
+MHAS,r5iwstat,r5iwstat: w5 R Interview Status,haven_labelled;vctrs_vctr;double
+MHAS,r5momage,r5momage: w5 R Mother's age - current/at death,numeric
+MHAS,r6ccdied,r6ccdied: w6 R Child died from COVID-19,haven_labelled;vctrs_vctr;double
+MHAS,r6dadage,r6dadage: w6 R Father's age - current/at death,numeric
+MHAS,r6decsib,r6decsib: w6 R Number of deceased siblings,numeric
+MHAS,r6iwstat,r6iwstat: w6 R Interview Status,haven_labelled;vctrs_vctr;double
+MHAS,r6momage,r6momage: w6 R Mother's age - current/at death,numeric
+MHAS,radmonth,radmonth: R Death Month,numeric
+MHAS,radyear,radyear: R Death Year,numeric
+MHAS,s1dadage,s1dadage: w1 S Father's age - current/at death,numeric
+MHAS,s1decsib,s1decsib: w1 S Number of deceased siblings,numeric
+MHAS,s1dmonth,s1dmonth: w1 S Death Month,numeric
+MHAS,s1dyear,s1dyear: w1 S Death Year,numeric
+MHAS,s1iwstat,s1iwstat: w1 S Interview Status,haven_labelled;vctrs_vctr;double
+MHAS,s1momage,s1momage: w1 S Mother's age - current/at death,numeric
+MHAS,s2dadage,s2dadage: w2 S Father's age - current/at death,numeric
+MHAS,s2decsib,s2decsib: w2 S Number of deceased siblings,numeric
+MHAS,s2dmonth,s2dmonth: w2 S Death Month,numeric
+MHAS,s2dyear,s2dyear: w2 S Death Year,numeric
+MHAS,s2iwstat,s2iwstat: w2 S Interview Status,haven_labelled;vctrs_vctr;double
+MHAS,s2momage,s2momage: w2 S Mother's age - current/at death,numeric
+MHAS,s3dadage,s3dadage: w3 S Father's age - current/at death,numeric
+MHAS,s3decsib,s3decsib: w3 S Number of deceased siblings,numeric
+MHAS,s3dmonth,s3dmonth: w3 S Death Month,numeric
+MHAS,s3dyear,s3dyear: w3 S Death Year,numeric
+MHAS,s3iwstat,s3iwstat: w3 S Interview Status,haven_labelled;vctrs_vctr;double
+MHAS,s3momage,s3momage: w3 S Mother's age - current/at death,numeric
+MHAS,s4dadage,s4dadage: w4 S Father's age - current/at death,numeric
+MHAS,s4decsib,s4decsib: w4 S Number of deceased siblings,numeric
+MHAS,s4dmonth,s4dmonth: w4 S Death Month,numeric
+MHAS,s4dyear,s4dyear: w4 S Death Year,numeric
+MHAS,s4iwstat,s4iwstat: w4 S Interview Status,haven_labelled;vctrs_vctr;double
+MHAS,s4momage,s4momage: w4 S Mother's age - current/at death,numeric
+MHAS,s5dadage,s5dadage: w5 S Father's age - current/at death,numeric
+MHAS,s5decsib,s5decsib: w5 S Number of deceased siblings,numeric
+MHAS,s5dmonth,s5dmonth: w5 S Death Month,numeric
+MHAS,s5dyear,s5dyear: w5 S Death Year,numeric
+MHAS,s5iwstat,s5iwstat: w5 S Interview Status,haven_labelled;vctrs_vctr;double
+MHAS,s5momage,s5momage: w5 S Mother's age - current/at death,numeric
+MHAS,s6ccdied,s6ccdied: w6 S Child died from COVID-19,haven_labelled;vctrs_vctr;double
+MHAS,s6dadage,s6dadage: w6 S Father's age - current/at death,numeric
+MHAS,s6decsib,s6decsib: w6 S Number of deceased siblings,numeric
+MHAS,s6dmonth,s6dmonth: w6 S Death Month,numeric
+MHAS,s6dyear,s6dyear: w6 S Death Year,numeric
+MHAS,s6iwstat,s6iwstat: w6 S Interview Status,haven_labelled;vctrs_vctr;double
+MHAS,s6momage,s6momage: w6 S Mother's age - current/at death,numeric

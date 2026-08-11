@@ -1,0 +1,4 @@
+gate,passed
+all_16_curves_converged,TRUE
+all_bins_have_records_events,TRUE
+oracle_is_labeled_target_outcome,TRUE

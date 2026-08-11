@@ -1,0 +1,7 @@
+riskset_type,cohort,observed_sequences,strict9_events,telephone_only_triggers,legacy_events,legacy_event_strict9_nonevent,strict9_event_legacy_nonevent,audit_note
+one_wave,CHARLS,10087,2432,604,3036,604,0,"Telephone-only is a specific trigger count, not a complete legacy-to-strict9 event decomposition because item coding/completeness also changed."
+one_wave,ELSA,39654,4990,239,5229,239,0,"Telephone-only is a specific trigger count, not a complete legacy-to-strict9 event decomposition because item coding/completeness also changed."
+one_wave,HRS,105514,12644,714,13288,1512,868,"Telephone-only is a specific trigger count, not a complete legacy-to-strict9 event decomposition because item coding/completeness also changed."
+two_wave,CHARLS,3915,787,178,965,178,0,"Telephone-only is a specific trigger count, not a complete legacy-to-strict9 event decomposition because item coding/completeness also changed."
+two_wave,ELSA,30611,2975,177,3152,177,0,"Telephone-only is a specific trigger count, not a complete legacy-to-strict9 event decomposition because item coding/completeness also changed."
+two_wave,HRS,83941,8066,521,8558,1072,580,"Telephone-only is a specific trigger count, not a complete legacy-to-strict9 event decomposition because item coding/completeness also changed."

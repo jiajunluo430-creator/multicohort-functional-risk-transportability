@@ -1,0 +1,7 @@
+metric,max_absolute_difference
+event_rate,4.163336342344337e-16
+mean_prediction,5.551115123125783e-16
+auc,5.551115123125783e-16
+brier,3.608224830031759e-16
+calibration_intercept,4.996003610813204e-16
+calibration_slope,3.774758283725532e-15

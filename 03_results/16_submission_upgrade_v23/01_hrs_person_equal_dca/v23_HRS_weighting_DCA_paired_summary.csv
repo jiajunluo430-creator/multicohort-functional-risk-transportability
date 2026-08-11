@@ -1,0 +1,2 @@
+cohort,threshold,outer_splits,paired_increment_ntp_per_1000_median,paired_increment_ntp_per_1000_empirical_p2_5,paired_increment_ntp_per_1000_empirical_p97_5,person_equal_exceeds_equal_cohort_splits,proportion_person_equal_exceeds_equal_cohort
+HRS,0.2,30,18.58068772625658,17.004830900191795,20.39665694719173,30,1.0

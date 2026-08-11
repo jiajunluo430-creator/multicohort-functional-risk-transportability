@@ -1,0 +1,8 @@
+gate,passed
+three_weighting_schemes_four_holdouts,TRUE
+three_models_four_holdouts_equal_cohort,TRUE
+all_fits_converged,TRUE
+person_equal_total_contribution_constant,TRUE
+charls_unknown_status_present,TRUE
+charls_boundary_200_reps_each_midpoint,TRUE
+existing_elsa_boundary_reused,TRUE

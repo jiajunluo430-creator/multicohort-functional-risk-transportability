@@ -1,0 +1,6 @@
+input=${D2_PROJECT_ROOT}/02_derived/reviewer_revision_v21/strict9_two_wave_riskset_primary_2to3y.rds
+existing_elsa_summary=${D2_PROJECT_ROOT}/03_results/14_reviewer_revision_v21/03_strict9_loco/ELSA_unknown_death_boundary_summary.csv
+primary_population=strict9_two_wave_primary_2to3y_observed
+target_evaluation=unweighted
+M2_status=exploratory_transparency_only
+CHARLS_boundary_status=scenario_not_imputation
