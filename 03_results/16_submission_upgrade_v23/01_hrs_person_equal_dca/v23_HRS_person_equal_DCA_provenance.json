@@ -1,7 +1,7 @@
 {
-  "charter": "F:\\DATA\\high_public_data\\Direction2_function_dependency_transportability\\00_contract\\analysis_charter_v2.3_final_minor_revision.md",
-  "prediction_source": "F:\\DATA\\high_public_data\\Direction2_function_dependency_transportability\\03_results\\16_submission_upgrade_v23\\01_hrs_person_equal_dca\\v23_HRS_person_equal_M1_predictions.csv.gz",
-  "equal_cohort_reference": "F:\\DATA\\high_public_data\\Direction2_function_dependency_transportability\\03_results\\14_reviewer_revision_v21\\07_nested_local_updating\\v21_strict9_disjoint_sample_dca_by_outer_split.csv.gz",
+  "charter": "00_protocol/analysis_charter_v2.3_final_minor_revision.md",
+  "prediction_source": "not redistributed: prediction-level intermediate; regenerate with 01_scripts/80_v23_prepare_hrs_person_equal_predictions.R",
+  "equal_cohort_reference": "not redistributed: prediction-level intermediate; regenerate with 01_scripts/61_nested_local_updating_v21_strict9.py",
   "python": "3.12.13 (main, Mar  3 2026, 15:01:35) [MSC v.1944 64 bit (AMD64)]",
   "platform": "Windows-11-10.0.26200-SP0",
   "numpy": "2.3.5",
