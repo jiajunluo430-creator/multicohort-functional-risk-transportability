@@ -154,7 +154,7 @@ Across 4 national aging cohorts, current multidomain health consistently improve
 
 ## Data Sharing Statement
 
-Individual-level CHARLS, HRS, ELSA, and MHAS data are available from their custodians under study-specific access terms and cannot be redistributed by the authors. The protocol, decision log, analysis code, aggregate results, and figure-generation code are publicly available in the aggregate-only GitHub repository (release v1.0.1): https://github.com/jiajunluo430-creator/multicohort-functional-risk-transportability.
+Individual-level CHARLS, HRS, ELSA, and MHAS data are available from their custodians under study-specific access terms and cannot be redistributed by the authors. The protocol, decision log, analysis code, aggregate results, and figure-generation code are publicly available in the aggregate-only GitHub repository (release v1.0.2): https://github.com/jiajunluo430-creator/multicohort-functional-risk-transportability.
 
 ## References
 

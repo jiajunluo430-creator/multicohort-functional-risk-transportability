@@ -27,7 +27,7 @@ M1 and equal-cohort development weighting define the primary analysis. History-e
 
 ## Citation and archive
 
-Use [`CITATION.cff`](CITATION.cff). The public repository is <https://github.com/jiajunluo430-creator/multicohort-functional-risk-transportability>, and the clean fixed source release for first submission is [v1.0.1](https://github.com/jiajunluo430-creator/multicohort-functional-risk-transportability/releases/tag/v1.0.1) (commit `9edd908e2fd5985974f225e365e3177cedcea61f`). A DOI may be added through an archival service in a later version.
+Use [`CITATION.cff`](CITATION.cff). The public repository is <https://github.com/jiajunluo430-creator/multicohort-functional-risk-transportability>, and the clean fixed source release for first submission is [v1.0.2](https://github.com/jiajunluo430-creator/multicohort-functional-risk-transportability/releases/tag/v1.0.2). A DOI may be added through an archival service in a later version.
 
 ## License
 
